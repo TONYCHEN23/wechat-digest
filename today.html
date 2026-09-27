@@ -46,6 +46,18 @@
   .card-link { margin-top: 8px; font-size: 13px; }
   .card-link a { color: #0071e3; text-decoration: none; font-weight: 500; }
   .card-link a:active { opacity: 0.7; }
+  .navbar {
+    position: sticky; top: 0; z-index: 10; background: #fff;
+    border-bottom: 1px solid #e6e6ea; display: flex; gap: 8px;
+    padding: 9px 12px; overflow-x: auto; -webkit-overflow-scrolling: touch;
+  }
+  .navbar::-webkit-scrollbar { display: none; }
+  .nav-chip {
+    flex: 0 0 auto; background: #f2f3f7; border-radius: 999px; padding: 5px 12px;
+    font-size: 12.5px; font-weight: 600; color: #1d1d1f; text-decoration: none; white-space: nowrap;
+  }
+  .nav-chip b { color: #0071e3; font-weight: 700; }
+  .section-title { scroll-margin-top: 56px; }
   .footer {
     text-align: center; color: #9a9aa0; font-size: 12px; margin-top: 28px;
   }
@@ -54,68 +66,87 @@
 <body>
   <div class="header">
     <h1>📰 公众号早报精选</h1>
-    <div class="date">2026年09月27日 · 共 8 条</div>
+    <div class="date">2026年09月27日 · 共 10 条</div>
     <div class="stats">
-      <span class="stat-chip">📋 实践活动 / 考试安排 8</span>
+      <span class="stat-chip">🎯 实习招聘 1</span><span class="stat-chip">🎓 讲座 / 论坛 4</span><span class="stat-chip">🏆 比赛 / 竞赛 2</span><span class="stat-chip">🎭 展览 / 演出 2</span><span class="stat-chip">📦 其他 1</span>
     </div>
   </div>
+  <nav class="navbar"><a class="nav-chip" href="#tag-实习招聘">🎯 实习招聘 <b>1</b></a><a class="nav-chip" href="#tag-讲座论坛">🎓 讲座 / 论坛 <b>4</b></a><a class="nav-chip" href="#tag-比赛竞赛">🏆 比赛 / 竞赛 <b>2</b></a><a class="nav-chip" href="#tag-展览演出">🎭 展览 / 演出 <b>2</b></a><a class="nav-chip" href="#tag-其他">📦 其他 <b>1</b></a></nav>
   <div class="wrap">
-    <div class="section-title" style="--accent:#f77f00">📋 实践活动 / 考试安排 <span class="section-count">8</span></div>
+    <div class="section-title" id="tag-实习招聘" style="--accent:#e63946">🎯 实习招聘 <span class="section-count">1</span></div>
 
   <div class="card">
-    <div class="card-title">基于语料库的跨学科语法隐喻研究讲座</div>
-    <div class="card-summary">杨炳钧主讲，时间为9月28日13:30-15:30，地点为松江校区第5教学楼155B。</div>
-    <div class="card-info">📌 地点：松江校区-第5教学楼-155B，主办：语言科学研究院，语言：汉语</div>
+    <div class="card-title">OPC与创业：临港给上外MBA学生的入场券</div>
+    <div class="card-summary">姚家宽主讲，介绍OPC与创业机会。</div>
+    <div class="card-info">📌 时间：9月29日（周二）16:40‑17:40，地点：虹口校区-会议中心-MBA案例室，主办：国际工商管理学院</div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+<div class="section-title" id="tag-讲座论坛" style="--accent:#f77f00">🎓 讲座 / 论坛 <span class="section-count">4</span></div>
+
+  <div class="card">
+    <div class="card-title">基于语料库的跨学科语法隐喻研究</div>
+    <div class="card-summary">杨炳钧主讲，探讨基于语料库的跨学科语法隐喻研究。</div>
+    <div class="card-info">📌 时间：9月28日（周一）13:30‑15:30，地点：松江校区-第5教学楼-155B，主办：语言科学研究院</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
-    <div class="card-title">Voice identity as a communicative signal讲座</div>
-    <div class="card-summary">Volker Dellwo主讲，时间为9月29日12:30-13:30，地点为松江校区第5教学楼136会议室。</div>
-    <div class="card-info">📌 地点：松江校区-第5教学楼-136会议室，主办：语言科学研究院，语言：汉语</div>
+    <div class="card-title">Voice identity as a communicative signal</div>
+    <div class="card-summary">Volker Dellwo主讲，探讨语音身份作为一种沟通信号。</div>
+    <div class="card-info">📌 时间：9月29日（周二）12:30‑13:30，地点：松江校区-第5教学楼-136会议室，主办：语言科学研究院</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
-    <div class="card-title">Rendez-vous between speech science and ENT research讲座</div>
-    <div class="card-summary">何磊主讲，时间为9月29日13:30-14:30，地点为松江校区第5教学楼136会议室。</div>
-    <div class="card-info">📌 地点：松江校区-第5教学楼-136会议室，主办：语言科学研究院，语言：汉语</div>
+    <div class="card-title">Rendez-vous between speech science and ENT research</div>
+    <div class="card-summary">何磊主讲，探讨语音科学与听觉研究之间的交汇。</div>
+    <div class="card-info">📌 时间：9月29日（周二）13:30‑14:30，地点：松江校区-第5教学楼-136会议室，主办：语言科学研究院</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
-    <div class="card-title">OPC与创业：临港给上外MBA学生的入场券讲座</div>
-    <div class="card-summary">姚家宽主讲，时间为9月29日16:40-17:40，地点为虹口校区会议中心MBA案例室。</div>
-    <div class="card-info">📌 地点：虹口校区-会议中心-MBA案例室，主办：国际工商管理学院，语言：汉语</div>
+    <div class="card-title">擘画英语课程建设和人才培养新蓝图——正确认识普通高中英语新课标</div>
+    <div class="card-summary">梅德明主讲，探讨英语课程建设和人才培养。</div>
+    <div class="card-info">📌 时间：9月30日（周三）16:30‑18:30，地点：腾讯会议:594-704-917，密码：202600，主办：档案馆、博物馆、世界语言博物馆，教师发展中心</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
+<div class="section-title" id="tag-比赛竞赛" style="--accent:#2a9d8f">🏆 比赛 / 竞赛 <span class="section-count">2</span></div>
+
+  <div class="card">
+    <div class="card-title">第六届全国商务翻译大赛</div>
+    <div class="card-summary">发布第六届全国商务翻译大赛一号公告，参赛者可报名参加。</div>
+    
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/fpeFBeo~dUqxplhGHKBGnw" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">第七届上海国际辩论挑战赛报名</div>
+    <div class="card-summary">2026年10月23至25日线下举行，报名通道已开启</div>
+    <div class="card-info">📌 IA Application (BP), Judge Application (PF), Team Registrations</div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF~NQXQQRQ" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+<div class="section-title" id="tag-展览演出" style="--accent:#8e44ad">🎭 展览 / 演出 <span class="section-count">2</span></div>
 
   <div class="card">
     <div class="card-title">国庆升旗仪式</div>
-    <div class="card-summary">9月30日07:15-07:45，地点为松江校区图文信息中心下沉式广场。</div>
-    <div class="card-info">📌 时间：9月30日07:15-07:45，地点：松江校区-图文信息中心-下沉式广场，主办：学生工作部（处）、武装部</div>
+    <div class="card-summary">学生工作部（处）、武装部主办，在松江校区-图文信息中心-下沉式广场举行。</div>
+    <div class="card-info">📌 时间：9月30日07:15-07:45（07:05前进场），主办：学生工作部（处）、武装部，地点：松江校区-图文信息中心-下沉式广场</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
     <div class="card-title">笔墨传薪火 文脉润青春｜上外『上外的书』迎新特展</div>
-    <div class="card-summary">9月7日10:00-9月30日18:00，地点为松江校区图文信息中心图书馆一楼大厅。</div>
+    <div class="card-summary">图书馆举办，展览时间为9月7日10:00-9月30日18:00。</div>
     <div class="card-info">📌 时间：9月7日10:00-9月30日18:00，地点：松江校区-图文信息中心-图书馆一楼大厅，主办：图书馆</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
+<div class="section-title" id="tag-其他" style="--accent:#6c757d">📦 其他 <span class="section-count">1</span></div>
 
   <div class="card">
     <div class="card-title">以文载道 以语传光——多语种红色文献专题展</div>
-    <div class="card-summary">9月11日10:00-10月31日20:00，地点为松江校区图文信息中心图书馆东侧一楼书展区。</div>
+    <div class="card-summary">图书馆举办，展览时间为9月11日10:00-10月31日20:00。</div>
     <div class="card-info">📌 时间：9月11日10:00-10月31日20:00，地点：松江校区-图文信息中心-图书馆东侧一楼书展区，主办：图书馆</div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/63ed4wPfwzG8ImS95wdphQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">第七届上海国际辩论挑战赛报名</div>
-    <div class="card-summary">2026 SIDC赛事组委会现已开启报名通道，赛事将于10月23至25日在线下举行。</div>
-    <div class="card-info">📌 IA Application (BP), Judge Application (PF), Team Registrations</div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF~NQXQQRQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
     <div class="footer">由 wewe-rss + 本地模型自动生成 · 点击卡片链接查看原文</div>
