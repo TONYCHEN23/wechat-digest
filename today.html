@@ -59,6 +59,19 @@
   .tg-aud { background: #eef2ff; color: #3b3ba8; }
   .tg-fld { background: #eaf7ef; color: #1b6b3a; }
   .tg-lng { background: #fdeef6; color: #9b2c6f; }
+  .card.group { border-left: 3px solid #b08d57; background: #fffdf8; }
+  .card.group .card-title { font-size: 15.5px; }
+  .phases { list-style: none; margin: 8px 0 2px; padding: 0; }
+  .phases li {
+    font-size: 13.5px; color: #1d1d1f; padding: 3px 0 3px 2px;
+    display: flex; gap: 7px; align-items: baseline;
+  }
+  .phases li .dot { flex: 0 0 auto; font-size: 12px; }
+  .phases li .nm { flex: 1 1 auto; }
+  .phases li .dt { flex: 0 0 auto; font-size: 12px; color: #8a8a92; }
+  .phases li.past { color: #9a9aa0; }
+  .phases li.past .nm { text-decoration: line-through; text-decoration-color: #d8d8dc; }
+  .phases li.now .dt { color: #b3261e; font-weight: 700; }
   .card-link { margin-top: 8px; font-size: 13px; }
   .card-link a { color: #0071e3; text-decoration: none; font-weight: 500; }
   .card-link a:active { opacity: 0.7; }
@@ -93,15 +106,15 @@
 <body>
   <div class="header">
     <h1>📰 公众号早报精选</h1>
-    <div class="date">2026年10月10日 · 共 156 条</div>
+    <div class="date">2026年10月10日 · 共 110 条</div>
     <div class="stats">
-      <span class="stat-chip">今日新增 <b>0</b></span><span class="stat-chip">仍然有效 <b>156</b></span><span class="stat-chip">🎓 讲座 / 论坛 13</span><span class="stat-chip">🏆 比赛 / 竞赛 11</span><span class="stat-chip">🎭 展览 / 演出 5</span><span class="stat-chip">📝 考试 / 教务 3</span><span class="stat-chip">🤝 招募 / 志愿 9</span><span class="stat-chip">📦 其他 115</span>
+      <span class="stat-chip">今日新增 <b>0</b></span><span class="stat-chip">仍然有效 <b>110</b></span><span class="stat-chip">🎓 讲座 / 论坛 4</span><span class="stat-chip">🏆 比赛 / 竞赛 12</span><span class="stat-chip">🎭 展览 / 演出 4</span><span class="stat-chip">📝 考试 / 教务 2</span><span class="stat-chip">🤝 招募 / 志愿 6</span><span class="stat-chip">📦 其他 82</span>
     </div>
   </div>
-  <nav class="navbar"><a class="nav-chip" href="#tag-讲座论坛">🎓 讲座 / 论坛 <b>13</b></a><a class="nav-chip" href="#tag-比赛竞赛">🏆 比赛 / 竞赛 <b>11</b></a><a class="nav-chip" href="#tag-展览演出">🎭 展览 / 演出 <b>5</b></a><a class="nav-chip" href="#tag-考试教务">📝 考试 / 教务 <b>3</b></a><a class="nav-chip" href="#tag-招募志愿">🤝 招募 / 志愿 <b>9</b></a><a class="nav-chip" href="#tag-其他">📦 其他 <b>115</b></a></nav>
+  <nav class="navbar"><a class="nav-chip" href="#tag-讲座论坛">🎓 讲座 / 论坛 <b>4</b></a><a class="nav-chip" href="#tag-比赛竞赛">🏆 比赛 / 竞赛 <b>12</b></a><a class="nav-chip" href="#tag-展览演出">🎭 展览 / 演出 <b>4</b></a><a class="nav-chip" href="#tag-考试教务">📝 考试 / 教务 <b>2</b></a><a class="nav-chip" href="#tag-招募志愿">🤝 招募 / 志愿 <b>6</b></a><a class="nav-chip" href="#tag-其他">📦 其他 <b>82</b></a></nav>
   <div class="wrap">
-    <div class="section-title" id="tag-讲座论坛" style="--accent:#f77f00">🎓 讲座 / 论坛 <span class="section-count">13</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">13</span></div>
+    <div class="section-title" id="tag-讲座论坛" style="--accent:#f77f00">🎓 讲座 / 论坛 <span class="section-count">4</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">4</span></div>
 
   <div class="card">
     <div class="card-title">上外MBA第三期「出海说」外语沙龙<span class="badge badge-days">还剩 4 天</span></div>
@@ -109,6 +122,14 @@
     <div class="card-info">📌 时间 2026-10-14 · 原文:第三期活动报名即日开启，名额有限，先到先得。请扫描下方二维码完成报名，锁定你的席位！ · 参与方式:二维码</div>
     <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span><span class="tg tg-fld">🧭 外语学习</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/eZ9scwiSvQ2mPmGuMnF8Sw" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 2026视听翻译研究国际研讨会</div>
+    <div class="card-summary">大事件 · 共 4 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">摘要提交</span><span class="dt">2026-10-15</span></li><li class=""><span class="dot">⏳</span><span class="nm">接受通知</span><span class="dt">2026-10-30</span></li><li class=""><span class="dot">⏳</span><span class="nm">全文提交</span><span class="dt">2026-11-20</span></li><li class=""><span class="dot">⏳</span><span class="nm">2026视听翻译研究国际研讨会</span><span class="dt">2026-12-05</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
+    <div class="card-link"><a href="https://ses.shisu.edu.cn/37/7a/c415a210810/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -119,95 +140,15 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/BCLqkHbm3CsWk-qaT1Nvjw" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">卓越书会《瓦尔登湖》讲座<span class="badge badge-days">还剩 6 天</span></div>
-    <div class="card-summary">10月16日参加《瓦尔登湖》讲座</div>
-    <div class="card-info">📌 时间 2026-10-16</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 通识科普</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/BOUM0nYyhln6ytsT_IY0_g" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">卓越书会《信号与噪声》讲座<span class="badge badge-days">还剩 13 天</span></div>
-    <div class="card-summary">10月23日参加《信号与噪声》讲座</div>
-    <div class="card-info">📌 时间 2026-10-23</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 通识科普</span><span class="tg tg-fld">🧭 科技数据</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/BOUM0nYyhln6ytsT_IY0_g" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">卓越书会《外围资本主义》讲座<span class="badge badge-days">还剩 26 天</span></div>
-    <div class="card-summary">11月5日参加《外围资本主义》讲座</div>
-    <div class="card-info">📌 时间 2026-11-05</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 通识科普</span><span class="tg tg-fld">🧭 金融经济</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/BOUM0nYyhln6ytsT_IY0_g" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">卓越书会《奥夫特丁根》讲座<span class="badge badge-days">还剩 27 天</span></div>
-    <div class="card-summary">11月6日参加《奥夫特丁根》讲座</div>
-    <div class="card-info">📌 时间 2026-11-06</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 通识科普</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/BOUM0nYyhln6ytsT_IY0_g" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">庆典大会暨研讨会<span class="badge badge-days">还剩 49 天</span></div>
-    <div class="card-summary">2026年11月28日举行庆典大会及研讨会，主题为新时代外语学科的战略使命与价值重塑。</div>
-    <div class="card-info">📌 时间 2026-11-28</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">“追往兆新：现代化与文学的历史想象”研讨会<span class="badge badge-days">还剩 50 天</span></div>
-    <div class="card-summary">2026年11月29日举办研讨会，主题为现代化与文学的历史想象。</div>
-    <div class="card-info">📌 时间 2026-11-29</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">全球语言语料库建设与应用研究研讨会<span class="badge badge-days">还剩 55 天</span></div>
-    <div class="card-summary">2026年12月4日至6日，通过报名二维码参加</div>
-    <div class="card-info">📌 时间 2026-12-04 · 参与方式:报名二维码</div>
+  <div class="card group">
+    <div class="card-title">🗂 全球语言语料库建设与应用研究研讨会</div>
+    <div class="card-summary">大事件 · 共 3 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">摘要提交截止</span><span class="dt">2026-10-25</span></li><li class=""><span class="dot">⏳</span><span class="nm">参会回执填写截止</span><span class="dt">2026-10-25</span></li><li class=""><span class="dot">⏳</span><span class="nm">全球语言语料库建设与应用研究研讨会</span><span class="dt">2026-12-04</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 科技数据</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/iyjILovSBbmD0QP6TAh4Bg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
-
-  <div class="card">
-    <div class="card-title">2026视听翻译研究国际研讨会<span class="badge badge-days">还剩 56 天</span></div>
-    <div class="card-summary">2026年12月5-6日举办视听翻译研究国际研讨会。</div>
-    <div class="card-info">📌 时间 2026-12-05</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">2026视听翻译研究国际研讨会<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年12月5-6日，在线参加，摘要提交截止至2026年10月15日</div>
-    <div class="card-info">📌 时间 2026-12-05 · 原文:The conference will be held online on December 5-6, 2026. · 参与方式:online · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://ses.shisu.edu.cn/37/7a/c415a210810/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">创意工作坊<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">创意工作坊即将举办。</div>
-    <div class="card-info">📌 ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/CQnZNDgpXHCwbuXOPOcRvA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">校友行业导师论坛<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">邀请校友担任行业导师，与在校师生交流。</div>
-    <div class="card-info">📌 ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 校友</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-<div class="section-title" id="tag-比赛竞赛" style="--accent:#2a9d8f">🏆 比赛 / 竞赛 <span class="section-count">11</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">11</span></div>
+<div class="section-title" id="tag-比赛竞赛" style="--accent:#2a9d8f">🏆 比赛 / 竞赛 <span class="section-count">12</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">12</span></div>
 
   <div class="card">
     <div class="card-title">上海市高校MBA研学写作大赛作品征集延长<span class="badge badge-soon">今天截止</span></div>
@@ -215,6 +156,14 @@
     <div class="card-info">📌 截止 2026-10-10 · 原文:本届大赛作品征集时间延长至2026年10月10日，逾期不再受理。</div>
     <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/VVEurvDBbPDqqWTHveXBMA" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 2026大学生‘AI+信息素养’大赛</div>
+    <div class="card-summary">大事件 · 共 6 个阶段(其中 4 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">2026大学生“AI+信息素养”大赛报名</span><span class="dt">2026-09-17 已结束</span></li><li class="past"><span class="dot">⌛</span><span class="nm">校级选拔赛</span><span class="dt">2026-09-19 已结束</span></li><li class="now"><span class="dot">⏳</span><span class="nm">省赛组队</span><span class="dt">2026-10-11 还剩1天</span></li><li class=""><span class="dot">⏳</span><span class="nm">省级淘汰赛</span><span class="dt">2026-10-17</span></li><li class=""><span class="dot">⏳</span><span class="nm">省赛决赛作品提交截止</span><span class="dt">2026-11-02</span></li><li class=""><span class="dot">⏳</span><span class="nm">全国联赛</span><span class="dt">2026-11-26</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/myI_6FFEQSFtfYb7DsgIVQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -225,20 +174,20 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/n_iI587R30fwXt2zDUXL2g" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">第七届上海国际辩论挑战赛<span class="badge badge-days">还剩 6 天</span></div>
-    <div class="card-summary">10月16日截止报名，线上报名</div>
-    <div class="card-info">📌 截止 2026-10-16 · 原文:报名截止时间: 10月16日 23:59 (GMT+8) · 参与方式:线下参与</div>
+  <div class="card group">
+    <div class="card-title">🗂 第七届上海国际辩论挑战赛</div>
+    <div class="card-summary">大事件 · 共 2 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">第七届上海国际辩论挑战赛</span><span class="dt">2026-10-16</span></li><li class=""><span class="dot">⏳</span><span class="nm">第七届上海国际辩论挑战赛报名已开启</span><span class="dt">2026-10-18</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 英语</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF_NQXQQRQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">第七届上海国际辩论挑战赛报名已开启<span class="badge badge-days">还剩 8 天</span></div>
-    <div class="card-summary">10月18日截止报名，公共论坛式辩论组1300元/队。</div>
-    <div class="card-info">📌 截止 2026-10-18 · 原文:报名截止时间: 10月18日 23:59 (GMT+8) · 参与方式:报名表</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 英语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF_NQXQQRQ" target="_blank" rel="noopener">查看原文 →</a></div>
+  <div class="card group">
+    <div class="card-title">🗂 2026年全国高校俄语大赛</div>
+    <div class="card-summary">大事件 · 共 7 个阶段(其中 6 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">2026年全国高校俄语大赛</span><span class="dt">2026-09-30 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">线上初赛</span><span class="dt">2026-10-24</span></li><li class=""><span class="dot">⏳</span><span class="nm">复赛、决赛选手报到</span><span class="dt">2026-11-06</span></li><li class=""><span class="dot">⏳</span><span class="nm">开幕式</span><span class="dt">2026-11-07</span></li><li class=""><span class="dot">⏳</span><span class="nm">高年级组、低年级组复赛和决赛</span><span class="dt">2026-11-07</span></li><li class=""><span class="dot">⏳</span><span class="nm">研究生组复赛和决赛</span><span class="dt">2026-11-08</span></li><li class=""><span class="dot">⏳</span><span class="nm">闭幕式暨颁奖仪式</span><span class="dt">2026-11-08</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -296,8 +245,8 @@
     <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 体育健康</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/zEHvBgF8BivwmrwnW7PRJA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
-<div class="section-title" id="tag-展览演出" style="--accent:#8e44ad">🎭 展览 / 演出 <span class="section-count">5</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">5</span></div>
+<div class="section-title" id="tag-展览演出" style="--accent:#8e44ad">🎭 展览 / 演出 <span class="section-count">4</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">4</span></div>
 
   <div class="card">
     <div class="card-title">多语种红色文献专题展<span class="badge badge-days">还剩 21 天</span></div>
@@ -316,14 +265,6 @@
   </div>
 
   <div class="card">
-    <div class="card-title">闭幕式暨颁奖仪式<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年11月8日举行闭幕式暨颁奖仪式</div>
-    <div class="card-info">📌 时间 2026-11-08 · 原文:2026年11月8日闭幕式暨颁奖仪式。 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">上外「上外的书」迎新特展<span class="badge badge-warn">⚠️ 请核实时间</span></div>
     <div class="card-summary">9月7日至30日上外「上外的书」迎新特展，地点松江校区-图文信息中心-图书馆一楼大厅</div>
     <div class="card-info">📌 原文:【时间】9月7日10:00-9月30日18:00 · 参与方式:地点：松江校区-图文信息中心-图书馆一楼大厅 · ⚠️ 请核实时间,以原文为准</div>
@@ -338,8 +279,8 @@
     <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 思政党建</span><span class="tg tg-fld">🧭 文化艺术</span><span class="tg tg-lng">🌐 多语种</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/RN5M3rNZbK-v8KJqRVfMMw" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
-<div class="section-title" id="tag-考试教务" style="--accent:#0071e3">📝 考试 / 教务 <span class="section-count">3</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">3</span></div>
+<div class="section-title" id="tag-考试教务" style="--accent:#0071e3">📝 考试 / 教务 <span class="section-count">2</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">2</span></div>
 
   <div class="card">
     <div class="card-title">2027届国家公务员考试模拟测试<span class="badge badge-soon">明天截止</span></div>
@@ -350,23 +291,31 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/dRxeCMXAMHILxXEIAW97kQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">缓补考安排<span class="badge badge-days">还剩 5 天</span></div>
-    <div class="card-summary">缓补考暂定于10月15日进行，具体安排另行通知。</div>
-    <div class="card-info">📌 时间 2026-10-15 · 原文:考试时间：2026年春季学期（2025-2026学年第二学期）课程的缓、补考暂定于10月15日（周四）、20日（周二）、 · 参与方式:教务系统</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 考试考证</span></div>
-    <div class="card-link"><a href="https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">日语中级口译证书考试说明<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">日语中级口译证书考试分为笔试和口试，具体考试内容和报名方式见原文。</div>
-    <div class="card-info">📌 原文:日语中级口译证书考试分为两个阶段，笔试侧重综合能力的考查；口试围绕口译实战场景，考查考生的双语转换能力。 · 参与方式:上海外语口译证书考试网 · ⚠️ 请核实时间,以原文为准</div>
+  <div class="card group">
+    <div class="card-title">🗂 日语中级口译证书考试</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">日语中级口译证书考试</span><span class="dt">2026-10-09 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">日语中级口译证书考试说明</span><span class="dt">日期待核实</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 考试考证</span><span class="tg tg-lng">🌐 日语</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/Iye2mY_hGXFYf3efiewp_g" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
-<div class="section-title" id="tag-招募志愿" style="--accent:#d63384">🤝 招募 / 志愿 <span class="section-count">9</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">9</span></div>
+<div class="section-title" id="tag-招募志愿" style="--accent:#d63384">🤝 招募 / 志愿 <span class="section-count">6</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">6</span></div>
+
+  <div class="card group">
+    <div class="card-title">🗂 学生会实践部招新</div>
+    <div class="card-summary">大事件 · 共 4 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">卓越学院实践部招新</span><span class="dt">2026-10-31</span></li><li class=""><span class="dot">⏳</span><span class="nm">创意工作坊</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">露天电影之夜</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">主题游园会</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 文化艺术</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/CQnZNDgpXHCwbuXOPOcRvA" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 院学联纳新｜社团招新第二篇</div>
+    <div class="card-summary">大事件 · 共 4 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">英华演讲社纳新</span><span class="dt">2026-10-31</span></li><li class=""><span class="dot">⏳</span><span class="nm">英华笔译社纳新</span><span class="dt">2026-10-31</span></li><li class=""><span class="dot">⏳</span><span class="nm">四叶草公益社纳新</span><span class="dt">2026-10-31</span></li><li class=""><span class="dot">⏳</span><span class="nm">英华口译社纳新</span><span class="dt">2026-10-31</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 志愿服务</span><span class="tg tg-lng">🌐 英语</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/pq3N3lp5QRWzuBtwRI-miA" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
 
   <div class="card">
     <div class="card-title">宣传设计部招新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
@@ -397,54 +346,14 @@
   </div>
 
   <div class="card">
-    <div class="card-title">卓越学院实践部招新<span class="badge badge-days">还剩 21 天</span></div>
-    <div class="card-summary">实践部招新，截止至10月31日，通过招新群二维码报名。</div>
-    <div class="card-info">📌 截止 2026-10-31 · 原文:招新报名表招新群二维码 · 参与方式:招新群二维码 · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/CQnZNDgpXHCwbuXOPOcRvA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">英华演讲社纳新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">英华演讲社纳新，截止至2026年10月31日，线上作答报名。</div>
-    <div class="card-info">📌 截止 2026-10-31 · 原文:考核问卷将于9月发布在群内，请自行下载并作答。 · 参与方式:线上作答 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-lng">🌐 英语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/pq3N3lp5QRWzuBtwRI-miA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">英华笔译社纳新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">英华笔译社纳新，截止至2026年10月31日，线上作答报名。</div>
-    <div class="card-info">📌 截止 2026-10-31 · 原文:考核问卷将于9月发布在群内，请自行下载并作答。 · 参与方式:线上作答 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-lng">🌐 英语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/pq3N3lp5QRWzuBtwRI-miA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">四叶草公益社纳新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">四叶草公益社纳新，截止至2026年10月31日，线上作答报名。</div>
-    <div class="card-info">📌 截止 2026-10-31 · 原文:考核问卷将于9月发布在群内，请自行下载并作答。 · 参与方式:线上作答 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 志愿服务</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/pq3N3lp5QRWzuBtwRI-miA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">英华口译社纳新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">英华口译社纳新，截止至2026年10月31日，线上作答报名。</div>
-    <div class="card-info">📌 截止 2026-10-31 · 原文:考核问卷将于9月发布在群内，请自行下载并作答。 · 参与方式:线上作答 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-lng">🌐 英语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/pq3N3lp5QRWzuBtwRI-miA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">研工部招新<span class="badge badge-warn">⚠️ 请核实时间</span></div>
     <div class="card-summary">2026年11月9日前通过邮箱报名</div>
     <div class="card-info">📌 截止 2026-11-09 · 原文:2026新一届研工部招新正式启动，Are You ‘Ready’ to Join Us：10J91992m100.sng · 参与方式:邮箱 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
     <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 校园生活</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/r_6DJXnXj3LJTGm4_C47gw" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
-<div class="section-title" id="tag-其他" style="--accent:#6c757d">📦 其他 <span class="section-count">115</span></div>
-<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">115</span></div>
+<div class="section-title" id="tag-其他" style="--accent:#6c757d">📦 其他 <span class="section-count">82</span></div>
+<div class="subsec">⏳ 仍然有效(按截止日近→远)<span class="n">82</span></div>
 
   <div class="card">
     <div class="card-title">苏州金龙海格客车2027届上海外国语大学专场校园宣讲会<span class="badge badge-soon">今天截止</span></div>
@@ -478,26 +387,10 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/QfTATwpI2eIyWF7cQfbleg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">省赛组队<span class="badge badge-soon">明天截止</span></div>
-    <div class="card-summary">10月11日组队截止</div>
-    <div class="card-info">📌 结束 2026-10-11 · 原文:省赛组队：9月22日‑10月11日（3人组成一支队伍）</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/myI_6FFEQSFtfYb7DsgIVQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">省赛组队<span class="badge badge-soon">明天截止</span></div>
-    <div class="card-summary">9月22日至10月11日组队</div>
-    <div class="card-info">📌 结束 2026-10-11 · 原文:省赛组队：9月22日‑10月11日（3人组成一支队伍）</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d_ra_mPZ8S0zJRDDluldIA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">2027级上外MBA全国联考预报名<span class="badge badge-days">还剩 2 天</span></div>
-    <div class="card-summary">2026年10月9日至10月12日预报名，每天9:00-22:00</div>
-    <div class="card-info">📌 结束 2026-10-12 · 原文:预报名2026年10月09日至10月12日 · 参与方式:https://yz.chsi.com.cn</div>
+  <div class="card group">
+    <div class="card-title">🗂 2027级上外MBA全国联考</div>
+    <div class="card-summary">大事件 · 共 2 个阶段</div>
+    <ul class="phases"><li class="now"><span class="dot">⏳</span><span class="nm">2027级上外MBA全国联考预报名</span><span class="dt">2026-10-12 还剩2天</span></li><li class=""><span class="dot">⏳</span><span class="nm">2027级上外MBA全国联考正式报名</span><span class="dt">2026-10-28</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span><span class="tg tg-fld">🧭 考试考证</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/zyavLpPS2oviF4gwW8axjA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
@@ -566,6 +459,14 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
+  <div class="card group">
+    <div class="card-title">🗂 雀巢中国2027届校园招聘</div>
+    <div class="card-summary">大事件 · 共 3 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">雀巢中国2027届校园招聘宣讲会</span><span class="dt">2026-10-14</span></li><li class=""><span class="dot">⏳</span><span class="nm">雀巢中国2027届校园招聘</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">雀巢中国2027届校园招聘线下见面会</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
   <div class="card">
     <div class="card-title">顾家家居2027届校招宣讲会<span class="badge badge-warn">⚠️ 请核实时间</span></div>
     <div class="card-summary">顾家家居2027届校招宣讲会，10月14日举行</div>
@@ -582,12 +483,36 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">雀巢中国2027届校园招聘宣讲会<span class="badge badge-days">还剩 4 天</span></div>
-    <div class="card-summary">10月14日19:00，线上宣讲会，扫码报名</div>
-    <div class="card-info">📌 时间 2026-10-14 · 原文:10.14 19:00 豆宣讲现锅「小管准备 件么，这一程，小雀陪你拿下OFFEF · 参与方式:二维码</div>
+  <div class="card group">
+    <div class="card-title">🗂 上海外国语大学2026年秋季学期（2026-2027学年第一学期）松江校区辅修教学安排通知</div>
+    <div class="card-summary">大事件 · 共 4 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">退费申请</span><span class="dt">2026-09-21 已结束</span></li><li class="past"><span class="dot">⌛</span><span class="nm">休学申请</span><span class="dt">2026-09-24 已结束</span></li><li class="past"><span class="dot">⌛</span><span class="nm">免听申请</span><span class="dt">2026-09-24 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">缓补考安排</span><span class="dt">2026-10-15</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 考试考证</span></div>
+    <div class="card-link"><a href="https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 旺旺集团2027届校园招聘</div>
+    <div class="card-summary">大事件 · 共 5 个阶段(其中 4 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">旺旺集团2027届校园招聘</span><span class="dt">2026-09-30 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">初试&测评</span><span class="dt">2026-10-15</span></li><li class=""><span class="dot">⏳</span><span class="nm">复试（PM主管）</span><span class="dt">2026-10-25</span></li><li class=""><span class="dot">⏳</span><span class="nm">终试（集团高管）</span><span class="dt">2026-11-05</span></li><li class=""><span class="dot">⏳</span><span class="nm">offer发放</span><span class="dt">2026-11-20</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/vLRqJvsgmloat5IfFxggDQ" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 考研报名</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">考研预报名明日开启</span><span class="dt">2026-10-09 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">考研正式报名</span><span class="dt">2026-10-15</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 本科生</span><span class="tg tg-fld">🧭 考试考证</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uGpCmbFtrIrDrWQCHB13VQ" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 亚玛芬2027届总部职能管培生秋招</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">亚玛芬2027届总部职能管培生秋招启动</span><span class="dt">2026-10-15</span></li><li class="past"><span class="dot">⌛</span><span class="nm">亚玛芬HR面对面</span><span class="dt">日期待核实</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw" target="_blank" rel="noopener">查看原文 →</a></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/VU8VWXbk_RoFabIIDAvtQw" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -615,27 +540,11 @@
   </div>
 
   <div class="card">
-    <div class="card-title">考研正式报名<span class="badge badge-days">还剩 5 天</span></div>
-    <div class="card-summary">2026年10月15日至24日报名，登录研招网。</div>
-    <div class="card-info">📌 截止 2026-10-15 · 原文:正式报名：2026年10月15日至10月24日，每日9:00-22:00 · 参与方式:https://yz.chsi.com.cn</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 本科生</span><span class="tg tg-fld">🧭 考试考证</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uGpCmbFtrIrDrWQCHB13VQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">秋季综合招聘会<span class="badge badge-days">还剩 5 天</span></div>
     <div class="card-summary">10月15日13:00-16:00，上外松江校区报名参加</div>
     <div class="card-info">📌 时间 2026-10-15 · 参与方式:Shisu.ApplyOffer.com</div>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/htQGULVWwu6wDQrSDa-cWg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">初试&测评<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">旺旺集团校园招聘初试&测评将于10月中旬起进行。</div>
-    <div class="card-info">📌 时间 2026-10-15 · 原文:初试&测评将于10月中旬起 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/vLRqJvsgmloat5IfFxggDQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -654,20 +563,12 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/ZzUn1C2nz9nWXWoTqLbSug" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">亚玛芬2027届总部职能管培生秋招启动<span class="badge badge-days">还剩 5 天</span></div>
-    <div class="card-summary">亚玛芬2027届总部职能管培生招聘，截止至2026年10月15日，在线投递。</div>
-    <div class="card-info">📌 截止 2026-10-15 · 原文:即日起至10月15日 · 参与方式:PC端: https://campus.51job.com/amersports2027, 移动端: 即刻投递</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/VU8VWXbk_RoFabIIDAvtQw" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">摘要提交<span class="badge badge-days">还剩 5 天</span></div>
-    <div class="card-summary">摘要提交截止至2026年10月15日，邮箱：avt.matters2026@outlook.com</div>
-    <div class="card-info">📌 截止 2026-10-15 · 原文:Abstract submission deadline: 15 October 2026. · 参与方式:email · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://ses.shisu.edu.cn/37/7a/c415a210810/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
+  <div class="card group">
+    <div class="card-title">🗂 卓越书会</div>
+    <div class="card-summary">大事件 · 共 4 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">卓越书会《瓦尔登湖》讲座</span><span class="dt">2026-10-16</span></li><li class=""><span class="dot">⏳</span><span class="nm">卓越书会《信号与噪声》讲座</span><span class="dt">2026-10-23</span></li><li class=""><span class="dot">⏳</span><span class="nm">卓越书会《外围资本主义》讲座</span><span class="dt">2026-11-05</span></li><li class=""><span class="dot">⏳</span><span class="nm">卓越书会《奥夫特丁根》讲座</span><span class="dt">2026-11-06</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 通识科普</span><span class="tg tg-fld">🧭 文化艺术</span><span class="tg tg-fld">🧭 科技数据</span><span class="tg tg-fld">🧭 金融经济</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/BOUM0nYyhln6ytsT_IY0_g" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -684,22 +585,6 @@
     <div class="card-info">📌 时间 2026-10-16 · 原文:10月16日 周五 18:30-20:30 长安汽车2027届校招宣讲会</div>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 工程制造</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">省级淘汰赛<span class="badge badge-days">还剩 7 天</span></div>
-    <div class="card-summary">10月17-18日进行淘汰赛</div>
-    <div class="card-info">📌 时间 2026-10-17 · 原文:省级淘汰赛：10月17‑18日</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/myI_6FFEQSFtfYb7DsgIVQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">省级淘汰赛<span class="badge badge-days">还剩 8 天</span></div>
-    <div class="card-summary">10月17日至18日进行</div>
-    <div class="card-info">📌 时间 2026-10-18 · 原文:省级淘汰赛：10月17‑18日 · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d_ra_mPZ8S0zJRDDluldIA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -759,38 +644,6 @@
   </div>
 
   <div class="card">
-    <div class="card-title">线上初赛<span class="badge badge-days">还剩 14 天</span></div>
-    <div class="card-summary">2026年10月24日进行线上初赛</div>
-    <div class="card-info">📌 时间 2026-10-24 · 原文:初赛：2026年10月24日；复赛和决赛：2026年11月7日—8日。 · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">复试（PM主管）<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">旺旺集团校园招聘复试（PM主管）将于10月下旬起进行。</div>
-    <div class="card-info">📌 时间 2026-10-25 · 原文:复试（PM主管）将于10月下旬起 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/vLRqJvsgmloat5IfFxggDQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">摘要提交截止<span class="badge badge-days">还剩 15 天</span></div>
-    <div class="card-summary">2026年10月25日前提交摘要</div>
-    <div class="card-info">📌 截止 2026-10-25 · 参与方式:报名二维码</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/iyjILovSBbmD0QP6TAh4Bg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">参会回执填写截止<span class="badge badge-days">还剩 15 天</span></div>
-    <div class="card-summary">2026年10月25日前填写参会回执</div>
-    <div class="card-info">📌 截止 2026-10-25 · 参与方式:参会回执</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/iyjILovSBbmD0QP6TAh4Bg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">中国重汽集团国际有限公司校园招聘<span class="badge badge-days">还剩 16 天</span></div>
     <div class="card-summary">2026-10-26 14:00 松江校区校园招聘</div>
     <div class="card-info">📌 时间 2026-10-26 · 原文:2026-10-26</div>
@@ -807,27 +660,11 @@
   </div>
 
   <div class="card">
-    <div class="card-title">2027级上外MBA全国联考正式报名<span class="badge badge-days">还剩 18 天</span></div>
-    <div class="card-summary">2026年10月15日至10月28日正式报名，每天9:00-22:00</div>
-    <div class="card-info">📌 结束 2026-10-28 · 原文:正式报名2026年10月15日至10月28日 · 参与方式:https://yz.chsi.com.cn</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span><span class="tg tg-fld">🧭 考试考证</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/zyavLpPS2oviF4gwW8axjA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">中粮集团2027届校园招聘<span class="badge badge-days">还剩 18 天</span></div>
     <div class="card-summary">2027届毕业生可投递简历，截止至2026年10月28日</div>
     <div class="card-info">📌 截止 2026-10-28 · 原文:简历投递截止时间2026年10月28日 · 参与方式:https://campus.51job.com/cofco</div>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/Khu1lHzbxiQ9owr_Su1ybA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">接受通知<span class="badge badge-days">还剩 20 天</span></div>
-    <div class="card-summary">接受通知截止至2026年10月30日</div>
-    <div class="card-info">📌 截止 2026-10-30 · 原文:Notification of acceptance will be sent by 30 October 2026. · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span></div>
-    <div class="card-link"><a href="https://ses.shisu.edu.cn/37/7a/c415a210810/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -855,22 +692,6 @@
   </div>
 
   <div class="card">
-    <div class="card-title">省赛决赛作品提交截止<span class="badge badge-days">还剩 23 天</span></div>
-    <div class="card-summary">11月2日22:00前提交作品</div>
-    <div class="card-info">📌 截止 2026-11-02 · 原文:省赛决赛作品提交截止：11月2日 22:00</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/myI_6FFEQSFtfYb7DsgIVQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">省赛决赛作品提交截止<span class="badge badge-days">还剩 23 天</span></div>
-    <div class="card-summary">11月2日22:00前提交</div>
-    <div class="card-info">📌 截止 2026-11-02 · 原文:省赛决赛作品提交截止：11月2日 22:00</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d_ra_mPZ8S0zJRDDluldIA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">美的集团校园招聘<span class="badge badge-warn">⚠️ 请核实时间</span></div>
     <div class="card-summary">美的集团校园招聘正式启动，截止至2026年11月3日投递。</div>
     <div class="card-info">📌 截止 2026-11-03 · 原文:美的集团校园招聘正式启动，截止至2026年11月3日投递。 · 参与方式:扫码关注上外就业 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
@@ -884,46 +705,6 @@
     <div class="card-info">📌 截止 2026-11-03 · 原文:缴费起始及结束日期：2026年8月13日至2026年11月3日 · 参与方式:上海外国语大学缴费管理服务系统 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
     <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 国际组织外交</span><span class="tg tg-lng">🌐 英语</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/4HsjKKsx4SqsEd6FgV95Vw" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">终试（集团高管）<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">旺旺集团校园招聘终试（集团高管）将于11月上旬起进行。</div>
-    <div class="card-info">📌 时间 2026-11-05 · 原文:终试（集团高管）将于11月上旬起 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/vLRqJvsgmloat5IfFxggDQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">复赛、决赛选手报到<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年11月6日报到参加复赛和决赛</div>
-    <div class="card-info">📌 时间 2026-11-06 · 原文:2026年11月6日复赛、决赛选手报到。 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">开幕式<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年11月7日举行开幕式</div>
-    <div class="card-info">📌 时间 2026-11-07 · 原文:2026年11月7日开幕式。 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">高年级组、低年级组复赛和决赛<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年11月7日进行高年级组、低年级组复赛和决赛</div>
-    <div class="card-info">📌 时间 2026-11-07 · 原文:2026年11月7日高年级组、低年级组复赛和决赛。 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">研究生组复赛和决赛<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2026年11月8日进行研究生组复赛和决赛</div>
-    <div class="card-info">📌 时间 2026-11-08 · 原文:2026年11月8日研究生组复赛和决赛。 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-lng">🌐 俄语</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/-L31ByPeYkCkJlQbfqZLgQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -942,36 +723,12 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/EjHXn9KVp5J9boh0Jjp-qg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">offer发放<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">旺旺集团校园招聘offer发放将于11月下旬起进行。</div>
-    <div class="card-info">📌 时间 2026-11-20 · 原文:offer发放将于11月下旬起 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/vLRqJvsgmloat5IfFxggDQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">全文提交<span class="badge badge-days">还剩 41 天</span></div>
-    <div class="card-summary">全文提交截止至2026年11月20日</div>
-    <div class="card-info">📌 截止 2026-11-20 · 原文:Full paper submission deadline for award consideration: 20 N · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span></div>
-    <div class="card-link"><a href="https://ses.shisu.edu.cn/37/7a/c415a210810/page.htm" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">全国联赛<span class="badge badge-days">还剩 47 天</span></div>
-    <div class="card-summary">11月26-27日线下比拼</div>
-    <div class="card-info">📌 时间 2026-11-26 · 原文:全国联赛：11月26‑27日（重庆大学线下现场比拼）</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/myI_6FFEQSFtfYb7DsgIVQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">全国联赛<span class="badge badge-days">还剩 48 天</span></div>
-    <div class="card-summary">11月26日至27日线下比拼</div>
-    <div class="card-info">📌 时间 2026-11-27 · 原文:全国联赛：11月26‑27日（重庆大学线下现场比拼） · (日期为推算)</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 通识科普</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d_ra_mPZ8S0zJRDDluldIA" target="_blank" rel="noopener">查看原文 →</a></div>
+  <div class="card group">
+    <div class="card-title">🗂 七秩英华 志远日新 | 上外英语学院70周年庆典</div>
+    <div class="card-summary">大事件 · 共 5 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">庆典大会暨研讨会</span><span class="dt">2026-11-28</span></li><li class=""><span class="dot">⏳</span><span class="nm">“追往兆新：现代化与文学的历史想象”研讨会</span><span class="dt">2026-11-29</span></li><li class=""><span class="dot">⏳</span><span class="nm">2026视听翻译研究国际研讨会</span><span class="dt">2026-12-05</span></li><li class=""><span class="dot">⏳</span><span class="nm">校友行业导师论坛</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">返校日游园会</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 研究生</span><span class="tg tg-aud">👥 教职工</span><span class="tg tg-aud">👥 校友</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 学术科研</span><span class="tg tg-fld">🧭 外语学习</span><span class="tg tg-fld">🧭 文化艺术</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 校园生活</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -998,6 +755,14 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/zEHvBgF8BivwmrwnW7PRJA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
+  <div class="card group">
+    <div class="card-title">🗂 新生入学后参保大学生居保流程</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">居保账户建立与医保电子凭证申领</span><span class="dt">2026-09-08 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">2026级新生居保参保确认</span><span class="dt">2026-12-31</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-fld">🧭 生活服务</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/cdekXJ4V9XxlgzfUAomMeg" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
   <div class="card">
     <div class="card-title">小米2027届全球校园招聘<span class="badge badge-days">还剩 82 天</span></div>
     <div class="card-summary">小米2027届全球校园招聘，网申截止至2026年12月31日。</div>
@@ -1006,18 +771,10 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/La9TJRlORdxiJRhLgqRE6Q" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">2026级新生居保参保确认<span class="badge badge-days">还剩 82 天</span></div>
-    <div class="card-summary">2026级新生需在2026年12月31日前完成居保参保确认</div>
-    <div class="card-info">📌 截止 2026-12-31 · 原文:本次参保确认工作截止时间与高校2027年度居民医保集中申报工作截止日同步，具体时间由辖区医保中心另行通知。 · 参与方式:随申办市民云APP</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-fld">🧭 生活服务</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/cdekXJ4V9XxlgzfUAomMeg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">上外MBA2027级奖学金发布<span class="badge badge-days">还剩 83 天</span></div>
-    <div class="card-summary">上外MBA2027级奖学金申请截止至2027年1月1日，详情请访问官网。</div>
-    <div class="card-info">📌 截止 2027-01-01 · 参与方式:网址 · (日期为推算)</div>
+  <div class="card group">
+    <div class="card-title">🗂 上外MBA2027级招生</div>
+    <div class="card-summary">大事件 · 共 3 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">上外MBA2027级奖学金发布</span><span class="dt">2027-01-01</span></li><li class=""><span class="dot">⏳</span><span class="nm">上外MBA2027级备考答疑群</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">上外MBA2027级招生简章</span><span class="dt">日期待核实</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/2QWxAdKqXIhJxbZtdnTw1Q" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
@@ -1063,6 +820,14 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/_W8ZylBpRYAU_rTubiLitA" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
+  <div class="card group">
+    <div class="card-title">🗂 金佰利2027管理培训生招聘</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">金佰利空中宣讲会</span><span class="dt">2026-09-21 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">金佰利2027管理培训生招聘</span><span class="dt">2027-07-31</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d0cVvtXlYxUV1EDlEKR6pA" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
   <div class="card">
     <div class="card-title">2027欧莱雅中国管理培训生招聘<span class="badge badge-days">还剩 294 天</span></div>
     <div class="card-summary">2027年7月31日前报名欧莱雅管理培训生招聘</div>
@@ -1071,12 +836,12 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/9nM_3AUFtuoW_TReacwycg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">金佰利2027管理培训生招聘<span class="badge badge-days">还剩 294 天</span></div>
-    <div class="card-summary">金佰利2027管理培训生招聘，本科及以上学历，9月7日至10月23日投递简历。</div>
-    <div class="card-info">📌 结束 2027-07-31 · 参与方式:线上投递简历</div>
+  <div class="card group">
+    <div class="card-title">🗂 宝洁2027秋季校园招聘</div>
+    <div class="card-summary">大事件 · 共 2 个阶段(其中 1 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">宝洁2027秋季校园招聘宣讲会</span><span class="dt">2026-09-16 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">宝洁2027秋季校园招聘</span><span class="dt">2027-08-31</span></li></ul>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/d0cVvtXlYxUV1EDlEKR6pA" target="_blank" rel="noopener">查看原文 →</a></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Vo7nYYnmngc6OnYL1k4ToQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -1093,14 +858,6 @@
     <div class="card-info">📌 结束 2027-08-31 · 参与方式:iflytek.zhiye.com</div>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 科技数据</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/tGmpu3K7sQyObSssoC_SkQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">宝洁2027秋季校园招聘<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2025.6-2027.8毕业的本科及以上同学均可投递，官网投递截止至2027年8月31日。</div>
-    <div class="card-info">📌 结束 2027-08-31 · 原文:2025.6-2027.8毕业的本科及以上同学均可投递，网申网测：9.1-9.28，官网投递：careers.pg.co · 参与方式:官网投递 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Vo7nYYnmngc6OnYL1k4ToQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -1135,100 +892,28 @@
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/VUmGQpcvitgdPK9I6KwUPg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">公众号推文制作与排版<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">参与上外模联公众号推文制作与排版，具体报名方式待定。</div>
-    <div class="card-info">📌 原文:公众号是许多同学认识上外模联的第一扇窗口，推文制作与排版也是新媒体运营部最主要的工作。 · 参与方式:线上报名 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
+  <div class="card group">
+    <div class="card-title">🗂 2026级新生校史校情教育活动</div>
+    <div class="card-summary">大事件 · 共 5 个阶段(其中 2 个仍可参与)</div>
+    <ul class="phases"><li class="past"><span class="dot">⌛</span><span class="nm">2026级新生校史校情教育活动</span><span class="dt">2026-09-20 已结束</span></li><li class="past"><span class="dot">⌛</span><span class="nm">迎新生主题展览</span><span class="dt">2026-09-20 已结束</span></li><li class="past"><span class="dot">⌛</span><span class="nm">校史知识问答</span><span class="dt">2026-09-22 已结束</span></li><li class=""><span class="dot">⏳</span><span class="nm">写给未来的信</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">拍照打卡</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 文化艺术</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/7cCDh1ROvn3yMpLulHbgyw" target="_blank" rel="noopener">查看原文 →</a></div>
+  </div>
+
+  <div class="card group">
+    <div class="card-title">🗂 新媒体运营部</div>
+    <div class="card-summary">大事件 · 共 5 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">公众号推文制作与排版</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">SIMUN与SISUMUN视频剪辑</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">协会各类活动摄影</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">小红书运营</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">国际组织实习推送排版</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 国际组织外交</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/ITVKmmh2kGnDYPUT2YYIEQ" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
-  <div class="card">
-    <div class="card-title">SIMUN与SISUMUN视频剪辑<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">参与SIMUN与SISUMUN视频剪辑，具体报名方式待定。</div>
-    <div class="card-info">📌 原文:视频中，有代表们的热烈讨论，也有会场之外的轻松时刻。我们从丰富的活动素材中选取片段，通过镜头衔接、音乐与字幕，将几天的会 · 参与方式:线上报名 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 国际组织外交</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/ITVKmmh2kGnDYPUT2YYIEQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">协会各类活动摄影<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">参与协会各类活动摄影，具体报名方式待定。</div>
-    <div class="card-info">📌 原文:在活动现场，我们用镜头定格模联人的风采，发言时的专注、磋商中的投入、合影时的笑容，都是会议中值得留存的珍贵画面。 · 参与方式:线上报名 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/ITVKmmh2kGnDYPUT2YYIEQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">小红书运营<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">参与小红书运营，具体报名方式待定。</div>
-    <div class="card-info">📌 原文:除了公众号，我们也通过小红书分享协会活动与模联日常，让更多同学发现模联的趣味。 · 参与方式:线上报名 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/ITVKmmh2kGnDYPUT2YYIEQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">国际组织实习推送排版<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">参与国际组织实习推送排版，具体报名方式待定。</div>
-    <div class="card-info">📌 原文:新媒体运营部还承担学生国际组织发展协会国际组织实习的推送工作。 · 参与方式:线上报名 · (日期为推算) · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 国际组织外交</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/ITVKmmh2kGnDYPUT2YYIEQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">雀巢中国2027届校园招聘<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">9月7日19:00，听干货抽好礼，扫码报名</div>
-    <div class="card-info">📌 原文:9.7 周一 19:00 听干货 抽好礼「拿直通+ · 参与方式:二维码 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">雀巢中国2027届校园招聘线下见面会<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">9月-10月，线下见面会，扫码报名</div>
-    <div class="card-info">📌 原文:9月-10月 线上聊不够，线下来面基 · 参与方式:二维码 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">露天电影之夜<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">露天电影之夜即将举办。</div>
-    <div class="card-info">📌 ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/CQnZNDgpXHCwbuXOPOcRvA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">主题游园会<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">主题游园会即将举办。</div>
-    <div class="card-info">📌 ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/CQnZNDgpXHCwbuXOPOcRvA" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">上外MBA2027级备考答疑群<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">加入上外MBA2027级备考答疑群，获取备考信息。</div>
-    <div class="card-info">📌 参与方式:扫码 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/2QWxAdKqXIhJxbZtdnTw1Q" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">上外MBA2027级招生简章<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">查看上外MBA2027级招生简章，了解申请条件和流程。</div>
-    <div class="card-info">📌 参与方式:网址 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 社会公众</span><span class="tg tg-fld">🧭 商科管理</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/2QWxAdKqXIhJxbZtdnTw1Q" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">返校日游园会<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">诚邀校友返校参加游园会。</div>
-    <div class="card-info">📌 ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 校友</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/Zp_QH8T0xOuj2sMUi1sfxg" target="_blank" rel="noopener">查看原文 →</a></div>
+  <div class="card group">
+    <div class="card-title">🗂 国防科技大学外国语学院2027人才引进</div>
+    <div class="card-summary">大事件 · 共 3 个阶段</div>
+    <ul class="phases"><li class=""><span class="dot">⏳</span><span class="nm">国防科技大学外国语学院2027人才引进公告</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">特招入伍、直接引进文职人员、合同专职、博士后招聘流程</span><span class="dt">日期待核实</span></li><li class=""><span class="dot">⏳</span><span class="nm">直接选拔招录军官、公开招考文职人员招聘流程</span><span class="dt">日期待核实</span></li></ul>
+    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 公共部门</span><span class="tg tg-fld">🧭 教育文化</span></div>
+    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uDPbyHOziQk_WdZGRXiNeg" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
@@ -1299,51 +984,11 @@ https://xyzp.51job.com/gacgroup2027
   </div>
 
   <div class="card">
-    <div class="card-title">国防科技大学外国语学院2027人才引进公告<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">2027年12月31日前投递简历，参与国防科技大学外国语学院人才引进。</div>
-    <div class="card-info">📌 原文:需符合《中国人民解放军文职人员条例》规定的基本条件。主要面向科技领军人才、学科拔尖人才、青年科技英才、学术新秀人才以及具 · 参与方式:简历投递 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 公共部门</span><span class="tg tg-fld">🧭 教育文化</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uDPbyHOziQk_WdZGRXiNeg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">特招入伍、直接引进文职人员、合同专职、博士后招聘流程<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">每季度可申报特招入伍、直接引进文职人员、合同专职、博士后职位。</div>
-    <div class="card-info">📌 原文:（一）特招入伍、直接引进文职人员、合同专职、博士后适用于以下招聘流程（每季度均可申报）：简历投递 · 参与方式:简历投递 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 公共部门</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uDPbyHOziQk_WdZGRXiNeg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">直接选拔招录军官、公开招考文职人员招聘流程<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">每季度可申报直接选拔招录军官、公开招考文职人员职位。</div>
-    <div class="card-info">📌 原文:（二）直接选拔招录军官、公开招考文职人员，适用于以下招聘流程：报名• 通过军队人才网（http://81rc.81.cn · 参与方式:通过军队人才网报名 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-aud">👥 研究生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 公共部门</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/uDPbyHOziQk_WdZGRXiNeg" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
     <div class="card-title">亿联网络校园招聘<span class="badge badge-warn">⚠️ 请核实时间</span></div>
     <div class="card-summary">亿联网络校园招聘线下宣讲行程八校宣讲，截止日期为2026年9月10日。</div>
     <div class="card-info">📌 原文:9月 10月 · 参与方式:点击“阅读原文”，直达亿联校招官网 · ⚠️ 请核实时间,以原文为准</div>
     <div class="card-tags"><span class="tg tg-aud">👥 应届毕业生</span><span class="tg tg-fld">🧭 就业求职</span><span class="tg tg-fld">🧭 科技数据</span></div>
     <div class="card-link"><a href="https://mp.weixin.qq.com/s/rt2GqNwsmojX62S8C6G0uQ" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">写给未来的信<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">新生写信给未来的自己，参与活动获精美文创。</div>
-    <div class="card-info">📌 原文:参与者可至博物馆志愿者值班处或博物馆服务台领取书信、信封等 · 参与方式:现场参与 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span><span class="tg tg-fld">🧭 文化艺术</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/7cCDh1ROvn3yMpLulHbgyw" target="_blank" rel="noopener">查看原文 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">拍照打卡<span class="badge badge-warn">⚠️ 请核实时间</span></div>
-    <div class="card-summary">新生在馆内拍照打卡，集赞赢取文创礼品。</div>
-    <div class="card-info">📌 原文:新生在学院组织的参观两馆期间，在场馆中手持语博馆标语KT板拍下照片或视频 · 参与方式:现场参与 · ⚠️ 请核实时间,以原文为准</div>
-    <div class="card-tags"><span class="tg tg-aud">👥 本科生</span><span class="tg tg-aud">👥 全校学生</span><span class="tg tg-fld">🧭 校园生活</span></div>
-    <div class="card-link"><a href="https://mp.weixin.qq.com/s/7cCDh1ROvn3yMpLulHbgyw" target="_blank" rel="noopener">查看原文 →</a></div>
   </div>
 
   <div class="card">
