@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-10T15:09:59+08:00",
+  "data_version": 1,
+  "files": {
+    "events": {
+      "path": "events.json",
+      "sha256": "8389787e4cf45b07b7cf73dae8fcab94cc10bf2ef52875516b2da92691245f1e",
+      "bytes": 122739,
+      "count": 144
+    },
+    "digest": {
+      "path": "digest.json",
+      "sha256": "55b17f57cd2278d2d3b99a8c9f8b32c1b2083080469b9bdfede3d6fd163c8784",
+      "bytes": 7224
+    }
+  },
+  "pipeline": {
+    "last_success": "2026-10-10T15:09:59+08:00"
+  },
+  "enums": {
+    "level": {
+      "L1": "实习就业",
+      "L2": "实践活动/考试"
+    },
+    "category": {
+      "exam_schedule": "考试安排",
+      "internship_job": "实习就业",
+      "lecture": "讲座",
+      "registration_activity": "报名活动"
+    },
+    "date_kind": {
+      "deadline": "截止日",
+      "event_day": "举行日",
+      "range_end": "期间截止"
+    },
+    "date_confidence": {
+      "failed": "无日期",
+      "high": "原文明确",
+      "low": "推算"
+    }
+  }
+}
