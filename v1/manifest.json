@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T15:09:59+08:00",
-  "data_version": 1,
+  "generated_at": "2026-10-10T00:00:00+08:00",
+  "data_version": 2,
   "files": {
     "events": {
       "path": "events.json",
-      "sha256": "8389787e4cf45b07b7cf73dae8fcab94cc10bf2ef52875516b2da92691245f1e",
+      "sha256": "e064c7a9813c2275bb52727852f31119447e4eadd8e6af59d6f20fc1ede4e017",
       "bytes": 122739,
       "count": 144
     },
     "digest": {
       "path": "digest.json",
-      "sha256": "55b17f57cd2278d2d3b99a8c9f8b32c1b2083080469b9bdfede3d6fd163c8784",
+      "sha256": "9d5468271700874b97419fd22356c894d30dd3cb84b34812b66f64f8538b2542",
       "bytes": 7224
     }
   },
   "pipeline": {
-    "last_success": "2026-10-10T15:09:59+08:00"
+    "last_success": null
   },
   "enums": {
     "level": {
