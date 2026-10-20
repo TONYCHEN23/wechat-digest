@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T00:00:00+08:00",
-  "data_version": 7,
+  "generated_at": "2026-10-20T00:00:00+08:00",
+  "data_version": 8,
   "files": {
     "events": {
       "path": "events.json",
-      "sha256": "0616cd17fdd2aa511cba79498a5dfa171af1bcb735f483ecaa0ece73e5c23144",
-      "bytes": 191900,
-      "count": 165
+      "sha256": "433825f213db444faece203632cef05b7e55e7d8774d312c4e62dbb9c4e980d8",
+      "bytes": 188991,
+      "count": 161
     },
     "digest": {
       "path": "digest.json",
-      "sha256": "e84693d29c2289d79dd49431b83dab3d6f123b0e16166c326bc168a64854ee51",
-      "bytes": 7562
+      "sha256": "fe56921755501fc15493e73900704bdb218f9fce4b913cdb2cb7f87e2b6304e7",
+      "bytes": 7274
     }
   },
   "pipeline": {
-    "last_success": "2026-10-12T23:13:53+08:00"
+    "last_success": "2026-10-13T22:45:33+08:00"
   },
   "enums": {
     "level": {
@@ -72,7 +72,9 @@
     "lang": {
       "俄语": "俄语",
       "多语种": "多语种",
-      "英语": "英语"
+      "日语": "日语",
+      "英语": "英语",
+      "阿拉伯语": "阿拉伯语"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T00:00:00+08:00",
+  "generated_at": "2026-10-20T00:00:00+08:00",
   "events": [
     {
       "id": "bae5e723550e7b6af47fdfc648603fb350f4c24e",
@@ -158,99 +158,6 @@
       "expired": true
     },
     {
-      "id": "e6bf0311d92570653cf1a1bb0995e9971ceab583",
-      "parent_article_id": null,
-      "title": "退费申请",
-      "summary": "开课前申请退费，邮件主题需包含姓名、辅修学号等信息。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "官网·教务处·通知公告",
-        "type": "website"
-      },
-      "link": "https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm",
-      "alt_links": [],
-      "publish_date": "2026-09-17",
-      "event_date": "2026-09-21",
-      "date_kind": "deadline",
-      "date_text": "学生如已缴费但决定放弃修读资格，请于开课前申请退费。 （ 1）申请方式：9月21日（周一）17:00前填写并发送《辅修专",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": "邮箱",
-      "first_seen_date": "2026-09-17",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": null,
-      "field": null,
-      "lang": null,
-      "group_key": "松江校区辅修教学安排",
-      "group_title": "松江校区辅修教学安排",
-      "phase": "退费申请",
-      "is_group_member": true,
-      "expired": true
-    },
-    {
-      "id": "82515247cd54eb71227489214f46a12c89587ca9",
-      "parent_article_id": null,
-      "title": "休学申请",
-      "summary": "因特殊原因申请休学，需提交相关证明材料。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "官网·教务处·通知公告",
-        "type": "website"
-      },
-      "link": "https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm",
-      "alt_links": [],
-      "publish_date": "2026-09-17",
-      "event_date": "2026-09-24",
-      "date_kind": "deadline",
-      "date_text": "学生因健康状况、应征入伍、公派交流或其他必须暂时中止辅修的原因，可申请辅修休学。 （ 1）申请方式：9月24日（周四）1",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": "教务系统",
-      "first_seen_date": "2026-09-17",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": null,
-      "field": null,
-      "lang": null,
-      "group_key": "松江校区辅修教学安排",
-      "group_title": "松江校区辅修教学安排",
-      "phase": "休学申请",
-      "is_group_member": true,
-      "expired": true
-    },
-    {
-      "id": "ceb555d6b2c35bd7dc580868181612a54134f1a8",
-      "parent_article_id": null,
-      "title": "免听申请",
-      "summary": "课程时间冲突可申请免听，需提供证明材料。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "官网·教务处·通知公告",
-        "type": "website"
-      },
-      "link": "https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm",
-      "alt_links": [],
-      "publish_date": "2026-09-17",
-      "event_date": "2026-09-24",
-      "date_kind": "deadline",
-      "date_text": "因主修课程时间与辅修课程时间冲突，在获得任课教师和开课院系同意后，学生可申请冲突时段辅修课程的免听，但需要完成课程作业和",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "教务系统",
-      "first_seen_date": "2026-09-17",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": null,
-      "field": null,
-      "lang": null,
-      "group_key": "松江校区辅修教学安排",
-      "group_title": "松江校区辅修教学安排",
-      "phase": "免听申请",
-      "is_group_member": true,
-      "expired": true
-    },
-    {
       "id": "2d7e33fb6e13aaaa7df63f7cffacca1fbcfc13a8",
       "parent_article_id": null,
       "title": "旺旺集团2027届校园招聘",
@@ -309,37 +216,6 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": null,
-      "is_group_member": true,
-      "expired": true
-    },
-    {
-      "id": "2a5602fe352e837616620c29a1d98b0a8ff7cf9d",
-      "parent_article_id": null,
-      "title": "考研预报名明日开启",
-      "summary": "2026年10月9日至12日预报名，登录研招网。",
-      "level": "L2",
-      "category": "exam_schedule",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/uGpCmbFtrIrDrWQCHB13VQ",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": "2026-10-09",
-      "date_kind": "deadline",
-      "date_text": "预报名：2026年10月9日至10月12日，每日9:00-22:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "https://yz.chsi.com.cn",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": null,
-      "field": null,
-      "lang": null,
-      "group_key": "考研报名",
-      "group_title": "考研报名",
-      "phase": "预报名开启",
       "is_group_member": true,
       "expired": true
     },
@@ -418,1024 +294,6 @@
       "expired": true
     },
     {
-      "id": "2e2658057aafd238f2180ef7451e42ff51bbbb17",
-      "parent_article_id": null,
-      "title": "2026校长杯火热开赛",
-      "summary": "2026校长杯火热开赛，报名参加",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "SISU体育教学部",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/RBN1DcA-sZ85FjFna10mkg",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "体育健康"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "36bf59ebcd62c92b42c9e63464f1f08221cca02c",
-      "parent_article_id": null,
-      "title": "第六期“文化四韵”跨文化训练营",
-      "summary": "第六期跨文化训练营开营，报名参加。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "留学上外",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WWjZdNRXMbwx2ZpX0yVhXg",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": "The \"Four Charms of Culture\" Intercultural Workshop (6th Edi",
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "微信公众号",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "国际学生",
-        "全校学生"
-      ],
-      "field": [
-        "文化艺术",
-        "思政党建",
-        "通识科普"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "511387ddc7640d6264be2424712bc490278b82f2",
-      "parent_article_id": null,
-      "title": "十年文旅，于细微处见世界",
-      "summary": "10月13日11:00-12:00，松江校区-全球治理与区域国别研究大楼-401，国际工商管理学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "文化艺术",
-        "学术科研",
-        "国际组织外交"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6ff01cd7a360a3f0d55e9358de833fe98b349468",
-      "parent_article_id": null,
-      "title": "上外MBA校友尹明海创业故事讲座",
-      "summary": "10月13日11:00，上外MBA校友尹明海分享创业故事。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/8GU1fmRG8Xbi7FKAAmo6hA",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生",
-        "研究生",
-        "校友"
-      ],
-      "field": [
-        "商科管理",
-        "文化艺术",
-        "思政党建"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "a6a80d5740908cd203852af18ad18789ebd7c133",
-      "parent_article_id": null,
-      "title": "普华永道校园招聘宣讲会",
-      "summary": "普华永道校园招聘宣讲会，10月13日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": "10月13日 周二 12:00-13:00 2027普华永道校园招聘宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "金融经济",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "b937e04f4732143791666997dc5ddc9d93a55d52",
-      "parent_article_id": null,
-      "title": "研究生国家奖学金公开答辩",
-      "summary": "观摩学习2026年研究生国家奖学金公开答辩",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "语言科学研究院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/nlfY77R8gsJlR63sMgUJPw",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "研究生"
-      ],
-      "field": [
-        "学术科研"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "cbe92297faf12d074cabc2aa976d2242787ed60b",
-      "parent_article_id": null,
-      "title": "鲜丰水果2027届校园招聘专场",
-      "summary": "鲜丰水果2027届校园招聘专场，10月13日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": "10月13日 周二 15:00-17:00 鲜丰水果2027届校园招聘专场",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "cd1e0b6c7947cc16c94ba916a12862d7005af1d6",
-      "parent_article_id": null,
-      "title": "象屿集团2027届校招宣讲",
-      "summary": "象屿集团2027届校招宣讲，10月13日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-13",
-      "date_kind": "event_day",
-      "date_text": "10月13日 周二 18:30-20:30 象屿集团2027届校招宣讲",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "0743de5b437c5171c8d7c4cd7665334aab10b393",
-      "parent_article_id": null,
-      "title": "国际体系、地缘格局变化与三大热点问题来龙去脉",
-      "summary": "10月14日18:30-20:30，松江校区-第4教学楼-338，国际关系与公共事务学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "国际组织外交",
-        "公共部门"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "1730d677420767910aba9f20b5ba84f35ed7fe4a",
-      "parent_article_id": null,
-      "title": "雀巢中国2027届校园招聘宣讲会",
-      "summary": "10月14日19:00，线上宣讲会，扫码报名",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": "10.14 19:00 豆宣讲现锅「小管准备 件么，这一程，小雀陪你拿下OFFEF",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": "雀巢中国2027届校园招聘",
-      "group_title": "雀巢中国2027届校园招聘",
-      "phase": "宣讲会",
-      "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "244ec06fdd8c0239eb909cc838191a9558bbbaee",
-      "parent_article_id": null,
-      "title": "顾家家居2027届校招宣讲会",
-      "summary": "顾家家居2027届校招宣讲会，10月14日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": "10月14日 周三 19:00-20:00 顾家家居2027届校招宣讲会",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "5a6e126b0a1e7b85271414325a353c86f416b747",
-      "parent_article_id": null,
-      "title": "上外MBA第三期「出海说」外语沙龙",
-      "summary": "10月14日，报名参加上外MBA第三期外语沙龙，名额有限。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/eZ9scwiSvQ2mPmGuMnF8Sw",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": "第三期活动报名即日开启，名额有限，先到先得。请扫描下方二维码完成报名，锁定你的席位！",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "研究生",
-        "社会公众"
-      ],
-      "field": [
-        "商科管理",
-        "外语学习"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "9c4792fd7b70793d0996af8de99742acfe244481",
-      "parent_article_id": null,
-      "title": "个人主义化的中东政治",
-      "summary": "2026年10月14日16:40—18:10，松江校区图书馆二楼数字学术中心，刘炳辰主讲",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学图书馆",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/J9VFX2vhIEHPNb_xcd33Hg",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "外语学习",
-        "学术科研",
-        "国际组织外交"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "aded4c6e7d12ba69c40653d47304bf62f8bdf81a",
-      "parent_article_id": null,
-      "title": "上外MBA2027级菁英体验营",
-      "summary": "10月14日参加上外MBA2027级菁英体验营，包括参观博物馆、实验室及与教授交流。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Bs38F2ej4uDJ4MO7v9Co-Q",
-      "alt_links": [],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "扫码报名",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-11T00:00:00+08:00",
-      "audience": [
-        "研究生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "商科管理",
-        "科技数据",
-        "国际组织外交"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "bed7bd7cf62b2c66df13b7eab70cc02ad681a9cc",
-      "parent_article_id": null,
-      "title": "PUP云端学术讲坛第103期",
-      "summary": "10月14日中午11:50-12:50，腾讯会议参与。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外档案校史博物",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/h_HVe-W96HexhXPF2PsQhQ",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": "时间10月14日中午11:50-12:50",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "腾讯会议号449-1756-3368",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生",
-        "研究生",
-        "国际学生"
-      ],
-      "field": [
-        "学术科研",
-        "文化艺术",
-        "通识科普"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "faa60ba0a9eb4e23ae55bf03a1b40c427efad277",
-      "parent_article_id": null,
-      "title": "雀巢中国2027届校招宣讲会",
-      "summary": "雀巢中国2027届校招宣讲会，10月14日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-14",
-      "date_kind": "event_day",
-      "date_text": "10月14日 周三 19:00-20:00 雀巢中国2027届校招宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "00bd9e191c9f050986c211abab3a56ecf5c5c042",
-      "parent_article_id": null,
-      "title": "歌曲之都东京：流行音乐中的都市论",
-      "summary": "10月15日14:50-16:20，松江校区-第8教学楼-131，日本文化经济学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "文化艺术",
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "028587608ffd6dbc6d98c8bf89dfb25cab979b59",
-      "parent_article_id": null,
-      "title": "2026视听翻译研究国际研讨会征稿",
-      "summary": "提交摘要截止至2026年10月15日，通过邮箱提交。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外英语学院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/BCLqkHbm3CsWk-qaT1Nvjw",
-      "alt_links": [],
-      "publish_date": "2026-09-01",
-      "event_date": "2026-10-15",
-      "date_kind": "deadline",
-      "date_text": "Abstract submission deadline: 15 October 2026.",
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "avt.matters2026@outlook.com",
-      "first_seen_date": "2026-09-01",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "研究生",
-        "教职工"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "02e369aa41aa9638ce049c1902dbbd086a8be610",
-      "parent_article_id": null,
-      "title": "东方雨虹2027届校招宣讲会",
-      "summary": "东方雨虹2027届校招宣讲会，10月15日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": "10月15日 周四 18:30-20:00 东方雨虹2027届校招宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "0d44156805896eeea42d69dcc4b3ad268457bc16",
-      "parent_article_id": null,
-      "title": "考研正式报名",
-      "summary": "2026年10月15日至24日报名，登录研招网。",
-      "level": "L2",
-      "category": "exam_schedule",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/uGpCmbFtrIrDrWQCHB13VQ",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": "2026-10-15",
-      "date_kind": "deadline",
-      "date_text": "正式报名：2026年10月15日至10月24日，每日9:00-22:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "https://yz.chsi.com.cn",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "本科生"
-      ],
-      "field": [
-        "考试考证"
-      ],
-      "lang": null,
-      "group_key": "考研报名",
-      "group_title": "考研报名",
-      "phase": "正式报名",
-      "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "4d0bd070c15e7ffc05c8a3d2a296f7eede892e62",
-      "parent_article_id": null,
-      "title": "“金秋启航”上海外国语大学2026年秋季综合招聘会",
-      "summary": "10月15日13:00-16:00，上外松江校区报名参加",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/ZzUn1C2nz9nWXWoTqLbSug",
-      "alt_links": [],
-      "publish_date": "2026-09-23",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "Zhaopin.ApplyOffer.com/sid=4320",
-      "first_seen_date": "2026-09-23",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6131a67b07297b19787e8448785d946a5ad35d93",
-      "parent_article_id": null,
-      "title": "学术创新中的‘问题意识’与‘问题意义意识’",
-      "summary": "10月15日16:30-18:00，松江校区-第5教学楼-365，英语学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "文化艺术"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "69e4961c7685752f3cbd0dd1ec626c1fa5b5f07d",
-      "parent_article_id": null,
-      "title": "宁波银行上海分行2027校招宣讲会",
-      "summary": "宁波银行上海分行2027校招宣讲会，10月15日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": "10月15日 周四 14:00-15:00 宁波银行上海分行2027校招宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "金融经济"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6f9f6f5797e47911654acca7740515ef06fe8325",
-      "parent_article_id": null,
-      "title": "秋季综合招聘会",
-      "summary": "10月15日13:00-16:00，上外松江校区全球治理与区域国别研究大楼，扫码报名",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Pk4E01pAAFiAO2jnJSwjyA",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": "时间：10月15日（周四）13:00-16:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "扫码",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理",
-        "文化艺术"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "71f405e4a53f4b33c47caff33194f24cfcc5e492",
-      "parent_article_id": null,
-      "title": "卓越国际拔尖创新人才培养计划课程选课",
-      "summary": "面向全校学生，10月15日截止报名",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/yWZglD8zjPinPETlvoK8Zw",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-15",
-      "date_kind": "deadline",
-      "date_text": "报名入群截止时间：2026年10月15日08:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "扫码入群",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习",
-        "国际组织外交"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "77069b009748b6b68bbd35a78844eb0fdd3922ea",
-      "parent_article_id": null,
-      "title": "亚玛芬2027届总部职能管培生秋招启动",
-      "summary": "亚玛芬2027届总部职能管培生招聘，截止至2026年10月15日，在线投递。",
-      "level": "L1",
-      "category": "internship_job",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/VU8VWXbk_RoFabIIDAvtQw",
-      "alt_links": [],
-      "publish_date": "2026-09-11",
-      "event_date": "2026-10-15",
-      "date_kind": "deadline",
-      "date_text": "即日起至10月15日",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "PC端: https://campus.51job.com/amersports2027, 移动端: 即刻投递",
-      "first_seen_date": "2026-09-11",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "78c33d0470b8c77b927bb55e7be33e61c93a032a",
-      "parent_article_id": null,
-      "title": "课堂教师反馈的多模态研究：基于多模态语料库的分析",
-      "summary": "10月15日18:00-19:00，松江校区-第5教学楼-155B会议室，语言科学研究院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
       "id": "b588ed80c87c0ffdc8c7bbaf20ea710c86de53bc",
       "parent_article_id": null,
       "title": "初试&测评",
@@ -1456,7 +314,7 @@
       "needs_verification": true,
       "participation_method": null,
       "first_seen_date": "2026-09-30",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-16T00:00:00+08:00",
       "audience": [
         "应届毕业生"
       ],
@@ -1468,116 +326,7 @@
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "初试&测评",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "b5eb98639cbc5651643e8b0091d468ac99d34f26",
-      "parent_article_id": null,
-      "title": "李晶洁：课堂教师反馈的多模态研究",
-      "summary": "10月15日18:00-19:00，5教楼155B会议室，李晶洁教授主讲",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "语言科学研究院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/gK8ISGOS8Iwta4MmC059jA",
-      "alt_links": [],
-      "publish_date": "2026-09-28",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-09-28",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "研究生",
-        "教职工"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "bf82ec417405fafed68dfa8553da5641f88f0854",
-      "parent_article_id": null,
-      "title": "缓补考安排",
-      "summary": "缓补考暂定于10月15日进行，具体安排另行通知。",
-      "level": "L2",
-      "category": "exam_schedule",
-      "source": {
-        "name": "官网·教务处·通知公告",
-        "type": "website"
-      },
-      "link": "https://newoaa.shisu.edu.cn/39/bc/c6667a211388/page.htm",
-      "alt_links": [],
-      "publish_date": "2026-09-17",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": "考试时间：2026年春季学期（2025-2026学年第二学期）课程的缓、补考暂定于10月15日（周四）、20日（周二）、",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "教务系统",
-      "first_seen_date": "2026-09-17",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生"
-      ],
-      "field": [
-        "考试考证"
-      ],
-      "lang": null,
-      "group_key": "松江校区辅修教学安排",
-      "group_title": "松江校区辅修教学安排",
-      "phase": "缓补考安排",
-      "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "c3d69f4fea932e1fbf296eedaab8f00c9ebe7a06",
-      "parent_article_id": null,
-      "title": "太古全球领导力发展计划（SMP)宣讲会",
-      "summary": "太古全球领导力发展计划（SMP)宣讲会，10月15日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": "10月15日 周四 11:50-12:50 太古全球领导力发展计划（SMP)宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
+      "expired": true
     },
     {
       "id": "ca2b5ea92e70661d1e841a6d4d07c32460ebbce3",
@@ -1600,7 +349,7 @@
       "needs_verification": false,
       "participation_method": "email",
       "first_seen_date": "2026-09-01",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-16T00:00:00+08:00",
       "audience": [
         "研究生",
         "教职工"
@@ -1614,42 +363,7 @@
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "接受通知",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "dd34b482a1325b6a7b3995ff1a66a4e419e38d1e",
-      "parent_article_id": null,
-      "title": "秋季综合招聘会",
-      "summary": "10月15日13:00-16:00，上外松江校区报名参加",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/htQGULVWwu6wDQrSDa-cWg",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": "2026-10-15",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "Shisu.ApplyOffer.com",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
+      "expired": true
     },
     {
       "id": "21abe8d12a32292b9a300ee95a720dc52ba0b122",
@@ -1672,7 +386,7 @@
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-17T00:00:00+08:00",
       "audience": [
         "全校学生"
       ],
@@ -1685,505 +399,7 @@
       "group_title": "卓越书会",
       "phase": "《瓦尔登湖》讲座",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "2bd60b2d65e34d575686626077a9c44ceeae2aa2",
-      "parent_article_id": null,
-      "title": "上海市税务局2027届校招宣讲会",
-      "summary": "上海市税务局2027届校招宣讲会，10月16日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "10月16日 周五 14:00-16:00 上海市税务局2027届校招宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "公共部门"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "3467e0de55bf8aa30fe73dc93e69f7621aa9bb1b",
-      "parent_article_id": null,
-      "title": "沈聿老师：形象成就前程",
-      "summary": "10月16日14:00，沈聿老师主讲，专业形象、礼仪与沟通讲座，免费报名。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/J_hqQepWJQKXsL5d4EKQAQ",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "2026年10月16日 (周五)14:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "全校学生",
-        "研究生",
-        "教职工"
-      ],
-      "field": [
-        "商科管理",
-        "思政党建",
-        "文化艺术"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "4193e2ba172015f54a02a7e6d4b7a3848f10225d",
-      "parent_article_id": null,
-      "title": "第七届上海国际辩论挑战赛",
-      "summary": "10月16日截止报名，线上报名",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外教务处",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF_NQXQQRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/GsiJqa6WRTn4VGRQIlKhuQ"
-      ],
-      "publish_date": "2026-09-21",
-      "event_date": "2026-10-16",
-      "date_kind": "deadline",
-      "date_text": "报名截止时间: 10月16日 23:59 (GMT+8)",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "线下参与",
-      "first_seen_date": "2026-09-21",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生"
-      ],
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": "第七届上海国际辩论挑战赛",
-      "group_title": "第七届上海国际辩论挑战赛",
-      "phase": null,
-      "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "5581b8697841fc6b8887ef7a5759f7540c4be458",
-      "parent_article_id": null,
-      "title": "长安汽车2027届校招宣讲会",
-      "summary": "长安汽车2027届校招宣讲会，10月16日举行",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Prrb6Pj3hTvueGJFKszApA",
-      "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "10月16日 周五 18:30-20:30 长安汽车2027届校招宣讲会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "64ee512ea34ff248255f3b9e705ae3fb9490ce51",
-      "parent_article_id": null,
-      "title": "勤助岗位招募",
-      "summary": "研究生勤助岗位招募，截止至10月16日中午12:00",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外教务处",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/AoAnaHikOnvWnz00JKJlgg",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-16",
-      "date_kind": "deadline",
-      "date_text": "报名截止日期2026年10月16日 中午12:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "研究生"
-      ],
-      "field": [
-        "思政党建"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "894971745eae9da110b921b587601e49b76e6a27",
-      "parent_article_id": null,
-      "title": "第三期“青年说”创新书会",
-      "summary": "10月16日13:00-14:30，行政楼123教室，陈广兴老师主讲《瓦尔登湖》。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外卓越学院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/GHWjYYqNdp60kb4z3dfpuw",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "时间：10月16日 13:00-14:30",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场参与",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "文化艺术",
-        "通识科普"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "ba38c9b33288b761bbf275b1f53fc83e272ae198",
-      "parent_article_id": null,
-      "title": "认清时代变局，提升应变能力",
-      "summary": "10月16日09:30-11:30，松江校区-国际教育中心-一楼报告厅，国际关系与公共事务学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "思政党建"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "bbe804302243a29f823923a829fcfd191a536f99",
-      "parent_article_id": null,
-      "title": "读懂字里行间：大模型时代的情感分析",
-      "summary": "10月16日10:05-11:35，松江校区-图文信息中心-T106，图书馆主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "科技数据"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "c95391ad7771cb96464ddd328695e6994cc46341",
-      "parent_article_id": null,
-      "title": "百团招新",
-      "summary": "10月16日14:30-18:30，师生活动中心篮球馆，参与社团互动，集齐拼图块。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外学联",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/vrm8Brs6gY8SK3jX_gBByA",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "10月16日，百团招新正式开启",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "校园生活"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "cdaacd0116bb0d0449e742d144bd1b6bbc441bb9",
-      "parent_article_id": null,
-      "title": "聚光晚会",
-      "summary": "10月16日15:00-18:30，师生活动中心篮球馆，观看社团风采展演。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外学联",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/vrm8Brs6gY8SK3jX_gBByA",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "聚光晚会15:00-18:30",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "校园生活"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "d0eab60065a26d1fc77b9ac534878e31b62c94a7",
-      "parent_article_id": null,
-      "title": "2026年秋季卓越书会·《瓦尔登湖》",
-      "summary": "10月16日13:00-14:30，松江校区-行政楼-123，卓越学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学图书馆",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "通识科普",
-        "文化艺术"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "d25d6a66d6596e68ae7bd5da8d17cb3adaceca84",
-      "parent_article_id": null,
-      "title": "形象成就前程——专业形象、礼仪与沟通",
-      "summary": "10月16日14:00-15:00，虹口校区-会议中心-MBA案例室，国际工商管理学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "思政党建",
-        "文化艺术"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "ec16efa15cbb4bedf2c884b733a09b947ac6edc9",
-      "parent_article_id": null,
-      "title": "上外MBA第四期「出海说」外语沙龙",
-      "summary": "10月16日，上外MBA外语沙龙，报名参加。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/t1Fqr7bcBPbApwYCTsyoSg",
-      "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-16",
-      "date_kind": "event_day",
-      "date_text": "10月16日（周五）12:00至13:00，时长60分钟。",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
-      "audience": [
-        "研究生",
-        "校友"
-      ],
-      "field": [
-        "商科管理",
-        "外语学习",
-        "国际组织外交"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
+      "expired": true
     },
     {
       "id": "0f2b5f62515fa4dbb7ea6197d69a5a66e0ec86dd",
@@ -2206,7 +422,7 @@
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-09-15",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-19T00:00:00+08:00",
       "audience": [
         "本科生",
         "研究生"
@@ -2220,156 +436,76 @@
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "省级淘汰赛",
       "is_group_member": true,
-      "expired": false
+      "expired": true
     },
     {
-      "id": "cdd7be27c39f5e86c81fb8fa3145f79425d35b18",
+      "id": "03bb15634f9d3e088cb41ae9ee9846acf78ee035",
       "parent_article_id": null,
-      "title": "全球跨境电商平台eBay眼中的中国卖家二十年",
-      "summary": "10月17日16:40-18:00，虹口校区-会议中心-MBA案例室，国际工商管理学院主办",
+      "title": "口译核心能力拆解与高效练习策略",
+      "summary": "10月20日19:00-20:00，汤敏主讲，扫描二维码进入直播间",
       "level": "L2",
       "category": "lecture",
       "source": {
-        "name": "上外研究生教育",
+        "name": "上海外语口译",
         "type": "wechat"
       },
-      "link": "https://mp.weixin.qq.com/s/0apHeHWOVkSRxXXkzM-ZnA",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/j1z4kOHRKQBsFA5kURHpRg"
-      ],
-      "publish_date": "2026-10-11",
-      "event_date": "2026-10-17",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "地点/地址",
-      "first_seen_date": "2026-10-11",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "商科管理",
-        "科技数据"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "fc96ec42eecb5c07a854cb4cbb78eccf59e17831",
-      "parent_article_id": null,
-      "title": "卓越国际拔尖创新人才培养计划课程",
-      "summary": "10月17日开始，周末上课",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/yWZglD8zjPinPETlvoK8Zw",
+      "link": "https://mp.weixin.qq.com/s/QNj2xtqiKSJH-j0o8hA3kA",
       "alt_links": [],
-      "publish_date": "2026-10-13",
-      "event_date": "2026-10-17",
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-20",
       "date_kind": "event_day",
-      "date_text": "在线直播授课，10月17日开始，集中于周末上课。",
+      "date_text": "英语中高级口译\n主讲人：汤敏\n时间：10月20日（周二）19:00-20:00",
       "date_confidence": "high",
       "needs_verification": false,
-      "participation_method": "NeoSchool平台",
-      "first_seen_date": "2026-10-13",
-      "updated_at": "2026-10-13T00:00:00+08:00",
+      "participation_method": "扫描二维码进入直播间",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
       "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习",
-        "国际组织外交"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "512210144e5a6ac358571a5878dbb81b7c1ac81a",
-      "parent_article_id": null,
-      "title": "第七届上海国际辩论挑战赛报名已开启",
-      "summary": "10月18日截止报名，公共论坛式辩论组1300元/队。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外教务处",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF_NQXQQRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/N2BgPbpdBjtjkF_NQXQQRQ"
-      ],
-      "publish_date": "2026-09-21",
-      "event_date": "2026-10-18",
-      "date_kind": "deadline",
-      "date_text": "报名截止时间: 10月18日 23:59 (GMT+8)",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "报名表",
-      "first_seen_date": "2026-09-21",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "本科生",
+        "全校学生",
+        "国际学生",
         "研究生"
       ],
       "field": [
-        "外语学习"
+        "外语学习",
+        "学术科研",
+        "思政党建"
       ],
       "lang": [
         "英语"
       ],
-      "group_key": "第七届上海国际辩论挑战赛",
-      "group_title": "第七届上海国际辩论挑战赛",
-      "phase": "报名阶段",
-      "is_group_member": true,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
-      "id": "36b3f20ac8a769186117f1b7889282e1a764c44f",
+      "id": "1de374bfc447f1e45fbd2824eac26350f492fce3",
       "parent_article_id": null,
-      "title": "德硕管理咨询（上海）有限公司2027校园宣讲会",
-      "summary": "2026-10-19 15:00 松江校区举行宣讲会",
-      "level": "L2",
-      "category": "lecture",
+      "title": "中国远洋海运集团招聘上外留学生",
+      "summary": "上外国际学生可申请，10月20日前投递简历",
+      "level": "L1",
+      "category": "internship_job",
       "source": {
-        "name": "官网·就业网·招聘宣讲",
-        "type": "website"
+        "name": "留学上外",
+        "type": "wechat"
       },
-      "link": "https://career.shisu.edu.cn/preaching.html?wid=26093014132723841444",
+      "link": "https://mp.weixin.qq.com/s/LFnk3QeZjGlYXu7G5ddrBw",
       "alt_links": [],
-      "publish_date": "2026-10-09",
-      "event_date": "2026-10-19",
-      "date_kind": "event_day",
-      "date_text": "【活动时间】 2026-10-19",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": null,
-      "first_seen_date": "2026-10-09",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-20",
+      "date_kind": "deadline",
+      "date_text": "简历投递邮箱（10月20日前）",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "邮箱",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
       "audience": [
-        "应届毕业生"
+        "国际学生"
       ],
       "field": [
-        "就业求职",
-        "商科管理"
+        "就业求职"
       ],
       "lang": null,
       "group_key": null,
@@ -2379,34 +515,146 @@
       "expired": false
     },
     {
-      "id": "6596ce3ed9ae02a7bc35fd2c2496216a319256f3",
+      "id": "4435555f95b48481acddd6defef1e18bc71b00bb",
       "parent_article_id": null,
-      "title": "2026上外第十二届国际嘉年华",
-      "summary": "2026年10月19日前报名参加上外第十二届国际嘉年华",
+      "title": "非遗手工体验·苔痕秘境报名",
+      "summary": "非遗手工体验·苔痕秘境报名，10月20日截止",
       "level": "L2",
       "category": "registration_activity",
       "source": {
         "name": "留学上外",
         "type": "wechat"
       },
-      "link": "https://mp.weixin.qq.com/s/mI9HaoP8zjbI9bRTUK0B0Q",
+      "link": "https://mp.weixin.qq.com/s/x41EbRsu5KOitg2XFbe3pw",
       "alt_links": [],
-      "publish_date": "2026-09-29",
-      "event_date": "2026-10-19",
-      "date_kind": "deadline",
-      "date_text": "Please download and fill out the project plan by scanning th",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "邮箱",
-      "first_seen_date": "2026-09-29",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": "活动报名｜第六期“文化四韵”跨文化训练营：非遗手工体验·苔痕秘境报名",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "二维码",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
       "audience": [
-        "全校学生",
         "国际学生"
       ],
       "field": [
-        "校园生活",
         "文化艺术"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "6aa85f47fc1facd37105e723fb8d6e1ac043ecfb",
+      "parent_article_id": null,
+      "title": "上海“松江七校”2027届毕业生联合招聘会",
+      "summary": "10月20日，东华大学松江校区体育馆，700+单位，2万+岗位招聘会，可扫码查职位。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/5stU4iGhko_j-Y-Wfn21_A",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": "10月20日（周二）",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "扫码进大厅",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理",
+        "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "74476dff331fe0626d85a5aac242455b9529e214",
+      "parent_article_id": null,
+      "title": "顺丰速运集团秋招宣讲会",
+      "summary": "10月20日，顺丰速运集团秋招宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": "10月20日 周二 18:30-20:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "78cdc9f7e8e7965efa3cac0567755a0bfc4e73a4",
+      "parent_article_id": null,
+      "title": "90分钟信息素养公开课03",
+      "summary": "10月20日，李朋真主讲90分钟信息素养公开课，探讨生成式AI。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/d-kSTKuOp6E01mQWen9ebg",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "通识科普",
+        "科技数据"
       ],
       "lang": null,
       "group_key": null,
@@ -2486,6 +734,360 @@
       "expired": false
     },
     {
+      "id": "b39cd8be67694480504ad8b7cf5593190a06d364",
+      "parent_article_id": null,
+      "title": "校园商贸升级建议征集",
+      "summary": "松江校区校园商贸升级，欢迎提出宝贵建议。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "生活在上外",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/pwRZt4fasVbSQm-3rtVJRQ",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "d41333a53f79cf33acc858c8f183f28d9c0ca6d2",
+      "parent_article_id": null,
+      "title": "清秘（北京）科技有限公司校园招聘宣讲会",
+      "summary": "10月20日，清秘（北京）科技有限公司校园招聘宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-20",
+      "date_kind": "event_day",
+      "date_text": "10月20日 周二 15:00-17:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "文化艺术"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "107391bd789f65b4f3204f7c2290e674e682bf69",
+      "parent_article_id": null,
+      "title": "上海汉得信息技术股份有限公司秋招宣讲会",
+      "summary": "10月21日，上海汉得信息技术股份有限公司秋招宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "10月21日 周三 12:00-13:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据",
+        "商科管理"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "47cadaaebc3c56393d1ec5562f5f3a38fa72806c",
+      "parent_article_id": null,
+      "title": "语博大讲堂系列第126期",
+      "summary": "10月21日18:30，线上腾讯会议参加，探讨社会文化视角下二语习得的方法争议与混合路径。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外档案校史博物",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/dUX4hyIwJdMGxHYP9GCiVw",
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/TgPWebuRi9kyWR-iGwaMrg"
+      ],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "讲座时间、地点\n10月21日 18:30\n线上腾讯会议ID：717-238-329",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "腾讯会议ID：717-238-329",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "研究生",
+        "国际学生"
+      ],
+      "field": [
+        "学术科研",
+        "外语学习",
+        "思政党建"
+      ],
+      "lang": [
+        "英语",
+        "多语种"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "4d76d1e54f5df2f076c60a860df0d8a8bbe737a7",
+      "parent_article_id": null,
+      "title": "PUP云端学术讲坛第104期",
+      "summary": "10月21日，腾讯会议号449-1756-3368，参与朱佳欣博士的讲座。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外档案校史博物",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/qNiCkLJAyXYXL6FDpp4FTw",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "时间\n10月21日",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "腾讯会议号",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "研究生",
+        "全校学生",
+        "国际学生"
+      ],
+      "field": [
+        "学术科研",
+        "外语学习",
+        "通识科普"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "522542b7c6a5cd69c3310778e898a6fad6439010",
+      "parent_article_id": null,
+      "title": "倪锦诚：AI时代科研创新的人机协同",
+      "summary": "10月21日，倪锦诚教授将进行AI时代科研创新人机协同讲座。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·英语学院·活动预告",
+        "type": "website"
+      },
+      "link": "https://ses.shisu.edu.cn/3d/02/c417a212226/page.htm",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "学术科研"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "58264aab3efe454c72dcc4b42dba8337f2c704d1",
+      "parent_article_id": null,
+      "title": "CHARLES & KEITH GROUP宣讲会",
+      "summary": "10月21日，CHARLES & KEITH GROUP宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "10月21日 周三 18:30-20:30",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "文化艺术"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "67d2fef76eb4f208ef1d9a2e0ee0638398fa2202",
+      "parent_article_id": null,
+      "title": "沪说新语上海话公益课堂",
+      "summary": "公益免费上海话课程，面向全城招募，10月21日前报名。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "留学上外",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/s7cFP0p7zfEkY_wKNdMMDQ",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-21",
+      "date_kind": "deadline",
+      "date_text": "报名方式及截止日期：10月21日15:00前，扫描下方二维码，填写报名信息",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "二维码",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "社会公众",
+        "国际学生"
+      ],
+      "field": [
+        "文化艺术",
+        "通识科普",
+        "外语学习"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "9166efc3f22397f3c5b5fcaf830f3b1e49baf21a",
+      "parent_article_id": null,
+      "title": "国轩高科出海市场校招宣讲会",
+      "summary": "10月21日，国轩高科出海市场校招宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "10月21日 周三 15:00-17:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "a2b92dd91a86c4869ca89b57ba3731cde6d076ca",
       "parent_article_id": null,
       "title": "上海汉得信息技术股份有限公司2027秋招宣讲会",
@@ -2515,6 +1117,434 @@
         "商科管理"
       ],
       "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "becaeb3eb7a690c59d1a1f7daa0dcb8edc1c2ea8",
+      "parent_article_id": null,
+      "title": "国轩高科出海市场校招宣讲",
+      "summary": "10月21日15:00松江校区，国轩高科出海市场校招宣讲",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101516235778579983",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "1b2bf47c9eab223d6557b3d421865e433af6a9ea",
+      "parent_article_id": null,
+      "title": "天目湖先进储能技术研究院招聘宣讲会",
+      "summary": "10月22日，天目湖先进储能技术研究院招聘宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "10月22日 周四 15:00-16:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "5f2191ebdfbb711d2771f121b41a560f66433326",
+      "parent_article_id": null,
+      "title": "DIXCEL中国校园宣讲会",
+      "summary": "10月22日，DIXCEL中国校园宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101511463981978252",
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA"
+      ],
+      "publish_date": "2026-10-16",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "10月22日 周四 10:00-11:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据"
+      ],
+      "lang": [
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "6c00b55fe2796d51568c356cd27c081f9e7e8302",
+      "parent_article_id": null,
+      "title": "东方风情之夜",
+      "summary": "10月22日，参与多语角活动，体验不同语种文化。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外档案校史博物",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/-nw19EYqRXWd2OuMLzOQKw",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "10月22日，17:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "现场参与",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "文化艺术",
+        "外语学习",
+        "国际组织外交"
+      ],
+      "lang": [
+        "阿拉伯语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "765de4fca274c82a527bf326b5ff7b3b0033ce1f",
+      "parent_article_id": null,
+      "title": "天目湖先进储能技术研究院2027年高校毕业生招聘宣讲会",
+      "summary": "2026年10月22日宣讲会，可参加",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101409562565170858",
+      "alt_links": [],
+      "publish_date": "2026-10-16",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "科技数据",
+        "工程制造",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "788551a5dd8936fc869706047bc093ea3338bf11",
+      "parent_article_id": null,
+      "title": "国教学院英语角",
+      "summary": "10月22日，参与英语角活动，提升英语能力。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外档案校史博物",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/-nw19EYqRXWd2OuMLzOQKw",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "10月22日，17:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "现场参与",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "外语学习",
+        "国际组织外交"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "cc2a64cb499f6812bcf13e610931f805708df4f4",
+      "parent_article_id": null,
+      "title": "拥抱AI，成就个人发展：从基础口译开始",
+      "summary": "10月22日19:00-20:00，王峥主讲，扫描二维码进入直播间",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外语口译",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/QNj2xtqiKSJH-j0o8hA3kA",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "英语基础口译\n主讲人：王峥\n时间：10月22日（周四）19:00-20:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "扫描二维码进入直播间",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "国际学生",
+        "研究生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "思政党建"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "dd7295f8103ed73fb86acc66f014c130b944ca96",
+      "parent_article_id": null,
+      "title": "邹羽：悲喜剧和绝对国家",
+      "summary": "10月22日（周四）14:50-17:05，松江校区五教楼5361会议室，邹羽主讲",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·英语学院·活动预告",
+        "type": "website"
+      },
+      "link": "https://ses.shisu.edu.cn/3d/03/c417a212227/page.htm",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "文化艺术",
+        "学术科研",
+        "外语学习"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e12f20eb56a6b3c040b375ed6e739983ddb80ab9",
+      "parent_article_id": null,
+      "title": "新疆出入境边防检查总站招录宣讲会",
+      "summary": "10月22日，新疆出入境边防检查总站招录宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": "10月22日 周四 16:30-17:30",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "公共部门"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "eeef62c64beabd7830b498d094e8a3f45d589592",
+      "parent_article_id": null,
+      "title": "查明建：人文追求与学问境界",
+      "summary": "10月22日18:20-19:50，松江校区五教楼5365教室，参与讲座",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·英语学院·活动预告",
+        "type": "website"
+      },
+      "link": "https://ses.shisu.edu.cn/3d/3b/c417a212283/page.htm",
+      "alt_links": [],
+      "publish_date": "2026-10-16",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "学术科研",
+        "文化艺术",
+        "思政党建"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "ef620ef7420a976b6e8a9c414d1ba7015bb6ad8d",
+      "parent_article_id": null,
+      "title": "全球语境下的王国维悲剧理论",
+      "summary": "10月22日16:30-18:00，松江校区五教楼5365教室，丁尔苏教授主讲。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·英语学院·活动预告",
+        "type": "website"
+      },
+      "link": "https://ses.shisu.edu.cn/3d/43/c417a212291/page.htm",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-22",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "学术科研",
+        "文化艺术",
+        "外语学习"
+      ],
+      "lang": [
+        "英语"
+      ],
       "group_key": null,
       "group_title": null,
       "phase": null,
@@ -2591,6 +1621,164 @@
       "group_title": "卓越书会",
       "phase": "《信号与噪声》讲座",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "bc0134e77c0d9507e8eb2667d94a86281423b1eb",
+      "parent_article_id": null,
+      "title": "从N1到口译证书：从“语言理解”到“语言运用”的跨越",
+      "summary": "10月23日19:00-20:00，凌蓉主讲，扫描二维码进入直播间",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外语口译",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/QNj2xtqiKSJH-j0o8hA3kA",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-23",
+      "date_kind": "event_day",
+      "date_text": "日语中高级口译\n主讲人：凌蓉\n时间：10月23日（周五）19:00-20:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "扫描二维码进入直播间",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "国际学生",
+        "研究生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "思政党建"
+      ],
+      "lang": [
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "c66904c9b3428694dc9d3580baedb461bfcf29a9",
+      "parent_article_id": null,
+      "title": "神马电力集团校招宣讲会",
+      "summary": "10月23日，神马电力集团校招宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-23",
+      "date_kind": "event_day",
+      "date_text": "10月23日 周五 14:00-16:30",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "c6fdc490d4ad029286be2d6b090f5da31370cb74",
+      "parent_article_id": null,
+      "title": "江苏奥菲罗科技有限公司宣讲会",
+      "summary": "10月23日，江苏奥菲罗科技有限公司宣讲会，报名参加。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
+      "alt_links": [],
+      "publish_date": "2026-10-17",
+      "event_date": "2026-10-23",
+      "date_kind": "event_day",
+      "date_text": "10月23日 周五 9:30-11:30",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
+      "first_seen_date": "2026-10-17",
+      "updated_at": "2026-10-17T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "科技数据"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "d20a0b24e401912df0af7dc1610625f4ef072fc2",
+      "parent_article_id": null,
+      "title": "上外MBA名企参访之走进bilibili",
+      "summary": "10月23日参访bilibili，需扫码报名。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学MBA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/jVtZ-KNiewMh5RoVFL5Ojg",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-23",
+      "date_kind": "event_day",
+      "date_text": "B站\n时间：\n10月23日（周五）下午14:00-15:30",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "二维码",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "研究生"
+      ],
+      "field": [
+        "商科管理",
+        "文化艺术",
+        "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -2705,6 +1893,84 @@
       "expired": false
     },
     {
+      "id": "c3d7c9f6f2fce6bd7927587c96980c4ee81505e2",
+      "parent_article_id": null,
+      "title": "新疆出入境边防检查总站年度招考",
+      "summary": "2026年10月24日前提交报考申请",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-24",
+      "date_kind": "deadline",
+      "date_text": "报考者可于2026年10月15日8:00至10月24日18:00期间登录专题网站进行报名并提交报考申请",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "24c71c239f5bed9951cd229aa89cda82ee7b4baa",
+      "parent_article_id": null,
+      "title": "第四届上海市大学生中华文化国际传播大赛-上外校赛",
+      "summary": "10月25日前通过问卷星报名，11月2日线下比赛。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外英语学院",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/geeQ6-NDZjjbBXGm29SKNQ",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-25",
+      "date_kind": "deadline",
+      "date_text": "请于10月25日中午12:00前通过问卷星链接https://v.wjx.cn/vm/wHNBuuy.aspx#填写报名",
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "问卷星链接",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "文化艺术"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "3a2833d6c158e973e99abc5a7db376f570698485",
       "parent_article_id": null,
       "title": "参会回执填写截止",
@@ -2738,6 +2004,82 @@
       "group_title": "全球语言语料库建设与应用研究研讨会",
       "phase": "参会回执填写截止",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "7cdaadce29187666894c5ca6d520e16e3350ae4f",
+      "parent_article_id": null,
+      "title": "民生银行上海分行2027届校园招聘",
+      "summary": "面向境内外高校应届生，截止至10月25日投递简历。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/OSa4VwcO6fx9smDFnW8X7Q",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-25",
+      "date_kind": "deadline",
+      "date_text": "简历投递即日起-10月25日",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "https://career.cmbc.com.cn/",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "金融经济",
+        "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "c91a07541b906f081db2cfb33935fbc68ba64b0c",
+      "parent_article_id": null,
+      "title": "2027国家公务员模拟考试",
+      "summary": "10月25日模拟考试，松江校区。",
+      "level": "L2",
+      "category": "exam_schedule",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/yZ8CyfBRj4wyQJ4ZmHTjZw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-25",
+      "date_kind": "event_day",
+      "date_text": "模考时间：10月25日（周日）",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "扫描海报二维码",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生",
+        "应届毕业生"
+      ],
+      "field": [
+        "公共部门",
+        "考试考证"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -2809,6 +2151,44 @@
       "group_title": "全球语言语料库建设与应用研究研讨会",
       "phase": "摘要提交截止",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "33ff4f8237c7f8c5d676e5f7cc1b01077f53da90",
+      "parent_article_id": null,
+      "title": "资格审查结果查询",
+      "summary": "2026年10月26日前查询资格审查结果",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-26",
+      "date_kind": "deadline",
+      "date_text": "招录机关于2026年10月15日8:00至10月26日18:00期间对报考申请进行审查",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -2919,6 +2299,81 @@
       "expired": false
     },
     {
+      "id": "9a667cf6595c99c1a1eadaa811bfda09d7ffd084",
+      "parent_article_id": null,
+      "title": "广东军辉达进出口贸易有限公司空中宣讲会",
+      "summary": "2026-10-27 14:00 线上参加宣讲会",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101917290118997179",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-10-27",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "线上宣讲会",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "b584b79884c5cfa52166c859e800284a4abc8b66",
+      "parent_article_id": null,
+      "title": "山东临工校园招聘",
+      "summary": "山东临工将于10月27日16:00在松江校区举办校园招聘活动。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "官网·就业网·招聘日历",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101415300767074761",
+      "alt_links": [],
+      "publish_date": "2026-10-16",
+      "event_date": "2026-10-27",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "工程制造"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "3bc2ba47d83f84b979f060a6da3716f295287cd7",
       "parent_article_id": null,
       "title": "2027级上外MBA全国联考正式报名",
@@ -2953,6 +2408,44 @@
       "group_title": "2027级上外MBA全国联考报名",
       "phase": "正式报名",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "52d40ea406c2e45f291dea8c5814ee00d37f687d",
+      "parent_article_id": null,
+      "title": "报名序号查询",
+      "summary": "2026年10月28日后查询报名序号",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-10-28",
+      "date_kind": "deadline",
+      "date_text": "通过资格审查的报考者，可于2026年10月28日8:00后登录专题网站查询报名序号",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -3024,6 +2517,47 @@
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "全文提交",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "d4710feb1fd311e53fe7b733c5c9cd07cfd9a14d",
+      "parent_article_id": null,
+      "title": "2026上海模拟联合国大会",
+      "summary": "2026年11月13日至15日，上海外国语大学松江校区，报名截止至10月30日",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外模联 SISUMUNA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/mx6tAC17tkwAN51k1Wv1Zg",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-10-30",
+      "date_kind": "deadline",
+      "date_text": "二轮滚动招募：2026年10月20日-2026年10月30日，招满即止",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://docs.qq.com/form/page/DU1dUVHZXWHhwbW9B",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生",
+        "全校学生"
+      ],
+      "field": [
+        "学术科研",
+        "国际组织外交",
+        "思政党建"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -3513,6 +3047,42 @@
       "expired": false
     },
     {
+      "id": "2784c9e65307db73c42e4a2ba65db59dbe6174f8",
+      "parent_article_id": null,
+      "title": "途虎养车2027届校园招聘",
+      "summary": "面向2027届应届毕业生，投递截止至2026年11月1日，通过官网或员工内推报名。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/6K4U2vCTE2-6F8f-wwP1aA",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-11-01",
+      "date_kind": "deadline",
+      "date_text": "即日起开放投递，每位同学可投递2个岗位",
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "校招官网",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "37c262bb498e3a754956ee1d82e1fb97a5686881",
       "parent_article_id": null,
       "title": "银泰商业校园招聘",
@@ -3583,6 +3153,43 @@
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "省赛决赛作品提交",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "9a304bceda71c991f8b4e0e154cb68fb782502bc",
+      "parent_article_id": null,
+      "title": "市赛决赛",
+      "summary": "提交作品及成果展示视频。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外国语大学图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/SMbqtMv1Skso0hhxVvFBbQ",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-11-02",
+      "date_kind": "deadline",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生"
+      ],
+      "field": [
+        "科技数据",
+        "学术科研"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -3728,6 +3335,44 @@
       "group_title": "卓越书会",
       "phase": "《外围资本主义》讲座",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "2b899c957bf54e07371d19ad28c343387e41b88d",
+      "parent_article_id": null,
+      "title": "网上报名确认及缴费",
+      "summary": "2026年11月6日前完成网上报名确认及缴费",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-11-06",
+      "date_kind": "deadline",
+      "date_text": "通过资格审查的报考者，可于2026年11月1日0:00至11月6日24:00登录专题网站进行网上报名确认并缴费",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -4142,6 +3787,123 @@
       "expired": false
     },
     {
+      "id": "1bb1534c91ba11868518afd1b986fbe0935a5cdd",
+      "parent_article_id": null,
+      "title": "第四届上海市大学生中华文化国际传播大赛",
+      "summary": "上海市高校英语或翻译专业学生可报名参加，截止2026年11月13日。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外英语学院",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/2rLYkbOC55bq3JrqYQk_FA",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-11-13",
+      "date_kind": "deadline",
+      "date_text": "每所高校选拔不超过3位选手参加复赛。高校完成初赛选拔后，请于2026年11月13日前填写《第四届上海市大学生中华文化国际",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "sisu_zhwhkyds@163.com",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "文化艺术"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "66ca234327de99fcfb36cd39bf014b3aea163a31",
+      "parent_article_id": null,
+      "title": "英语口译基础能力证书考试",
+      "summary": "11月15日举行，即日起至10月26日报名",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外语口译",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/qwHmG0bId17OEHq5ZGEktg",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-11-15",
+      "date_kind": "event_day",
+      "date_text": "英语口译基础能力证书考试现已放开年龄限制，中小学生、社会人士均可报名，欢迎报考。",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "上海外语口译证书考试网",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "社会公众",
+        "全校学生"
+      ],
+      "field": [
+        "外语学习"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "7095e9e841d5dedbeb21bb08f212d34bffeb5278",
+      "parent_article_id": null,
+      "title": "上海外语口译证书第二阶段考试（口试）",
+      "summary": "11月15日举行，即日起至10月26日报名",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外语口译",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/qwHmG0bId17OEHq5ZGEktg",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-11-15",
+      "date_kind": "event_day",
+      "date_text": "2026年秋季上海外语口译证书第二阶段考试（口试）将于11月举行。",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "上海外语口译证书考试网",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "社会公众",
+        "全校学生"
+      ],
+      "field": [
+        "外语学习"
+      ],
+      "lang": [
+        "英语",
+        "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "7a6fb845b88138810df1870576f85e57c1495402",
       "parent_article_id": null,
       "title": "2026上海模拟联合国大会",
@@ -4210,6 +3972,44 @@
         "学术科研"
       ],
       "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "ee89aab7233f29d5dec2549a7f8237a265f3baa1",
+      "parent_article_id": null,
+      "title": "日语高级口译证书考试",
+      "summary": "11月15日举行，即日起至10月26日报名",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外语口译",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/qwHmG0bId17OEHq5ZGEktg",
+      "alt_links": [],
+      "publish_date": "2026-10-20",
+      "event_date": "2026-11-15",
+      "date_kind": "event_day",
+      "date_text": "日语高级口译证书考试将于11月举行。",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "上海外语口译证书考试网",
+      "first_seen_date": "2026-10-20",
+      "updated_at": "2026-10-20T00:00:00+08:00",
+      "audience": [
+        "社会公众",
+        "全校学生"
+      ],
+      "field": [
+        "外语学习"
+      ],
+      "lang": [
+        "日语"
+      ],
       "group_key": null,
       "group_title": null,
       "phase": null,
@@ -4289,6 +4089,44 @@
       "expired": false
     },
     {
+      "id": "abea386c0d3a3f1eaeb9d361bd501ef7b81722f5",
+      "parent_article_id": null,
+      "title": "上海外国语大学B类奖学金申请",
+      "summary": "申请B类奖学金，截止2026年11月22日",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "留学上外",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/t5YP1B06tJ-M8OFybLxaog",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-11-22",
+      "date_kind": "deadline",
+      "date_text": "申请截止时间：北京时间2026年11月22日24:00。",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "CSC系统 & 上外申请系统",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "国际学生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "dbedb7ed20cb00918e1f8e2dcb934f5ebf769867",
       "parent_article_id": null,
       "title": "全国联赛",
@@ -4323,6 +4161,45 @@
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "全国联赛",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "622f652c6cb57f6de5bc6ea2b9d492da0500e2d1",
+      "parent_article_id": null,
+      "title": "第三届“陈文兵读书奖”阅读竞赛报名开启",
+      "summary": "第三届“陈文兵读书奖”阅读竞赛报名开始。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外英语学院",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/icnmj80a0em7Vj0MIHlPwA",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-11-27",
+      "date_kind": "deadline",
+      "date_text": "报名截止时间为11月27日（周五）12:00。",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "扫描二维码填写问卷",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -4363,6 +4240,44 @@
       "expired": false
     },
     {
+      "id": "79272bd4af226560ce7e3da8ab112d14485cadae",
+      "parent_article_id": null,
+      "title": "笔试",
+      "summary": "2026年11月29日进行笔试",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-11-29",
+      "date_kind": "event_day",
+      "date_text": "公安机关人民警察职位专业科目笔试：2026年11月28日下午 14:00—16:00\n行政职业能力测验：2026年11月",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "c12485be32781c2f5a8ee84e2e403c35145cddfb",
       "parent_article_id": null,
       "title": "“追往兆新：现代化与文学的历史想象”研讨会",
@@ -4397,6 +4312,44 @@
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "‘追往兆新：现代化与文学的历史想象’研讨会",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "f92ca54011edab79be9c212f48e61fb3b82cc0b3",
+      "parent_article_id": null,
+      "title": "准考证下载打印",
+      "summary": "2026年11月29日下载打印准考证",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2026-11-29",
+      "date_kind": "event_day",
+      "date_text": "报名确认成功的报考者，请于2026年11月23日0:00至11月29日15:00期间登录专题网站打印准考证",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -4660,6 +4613,43 @@
       "expired": false
     },
     {
+      "id": "66f88f04bc200e2555c18b2348407b6a2e5d7c15",
+      "parent_article_id": null,
+      "title": "民生银行上海分行实习生招聘",
+      "summary": "面向境内外高校在校生，截止至12月31日投递简历。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/OSa4VwcO6fx9smDFnW8X7Q",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2026-12-31",
+      "date_kind": "deadline",
+      "date_text": "简历投递即日起-12月31日",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://career.cmbc.com.cn/",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "金融经济",
+        "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "c02172b4d9e87a6bf13dfb87f7d29061ff9f6bdb",
       "parent_article_id": null,
       "title": "2026级新生居保参保确认",
@@ -4901,6 +4891,43 @@
       "field": [
         "就业求职",
         "教育文化"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "d0502f3c055fa9a9eae6a98dd01f180bf1daa01d",
+      "parent_article_id": null,
+      "title": "上外MBA2027级奖学金发布",
+      "summary": "上外MBA2027级奖学金全面开放申请，100%全覆盖。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外国语大学MBA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/ABMwzAuaxWtPWN6zcAP39g",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2027-01-01",
+      "date_kind": "deadline",
+      "date_text": null,
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "链接",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "研究生",
+        "应届毕业生",
+        "社会公众"
+      ],
+      "field": [
+        "商科管理"
       ],
       "lang": null,
       "group_key": null,
@@ -5273,6 +5300,116 @@
       "expired": false
     },
     {
+      "id": "1a344eba0a6165fad8564ada4b2ea74ee01a3aaf",
+      "parent_article_id": null,
+      "title": "宇通集团2027届校园招聘",
+      "summary": "2027年10月27日前，通过扫码关注上外就业报名宇通集团校园招聘",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/OEo4bMvPiJv7lmqfa05y8A",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2027-10-27",
+      "date_kind": "deadline",
+      "date_text": "于週2027庙仪园治聘项日止到后可邀你加入",
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "扫码关注上外就业",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "6b630006784a862edd8c99a1b2dec05f2fda863b",
+      "parent_article_id": null,
+      "title": "象屿地产2027届校园招聘",
+      "summary": "面向2027届应届毕业生，提供多个管培生岗位，截止2027年10月31日报名。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/18x4eT4DxLn4-3BasPs9Lg",
+      "alt_links": [],
+      "publish_date": "2026-10-19",
+      "event_date": "2027-10-31",
+      "date_kind": "deadline",
+      "date_text": "扫描招聘二维码，点击［校园招聘］-［管培生计划］选择心仪岗位，投递你的成长坐标",
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "线上投递",
+      "first_seen_date": "2026-10-19",
+      "updated_at": "2026-10-19T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "181739ce20c532e7c2f8751ea12b141923cf9ec2",
+      "parent_article_id": null,
+      "title": "成绩查询",
+      "summary": "2027年1月查询笔试成绩",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": null,
+      "date_kind": null,
+      "date_text": "报考者可于2027年1月登录专题网站查询笔试成绩和合格分数线",
+      "date_confidence": "failed",
+      "needs_verification": true,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "2803bfe726a361b91861c6f7b0bddd2a2108f3c2",
       "parent_article_id": null,
       "title": "返校日游园会",
@@ -5306,42 +5443,6 @@
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "返校日游园会",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "287520deee5b9f4bebb084d68cf5fd1684c0c112",
-      "parent_article_id": null,
-      "title": "1V1教授面对面活动报名",
-      "summary": "报名参加1V1教授面对面活动",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/6v6mZHwzeQND073Ko5srpA",
-      "alt_links": [],
-      "publish_date": "2026-09-24",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": null,
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "报名通道",
-      "first_seen_date": "2026-09-24",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "社会公众"
-      ],
-      "field": [
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
       "expired": false
     },
     {
@@ -5472,7 +5573,7 @@
       "needs_verification": true,
       "participation_method": "电话/在线咨询",
       "first_seen_date": "2026-09-25",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-16T00:00:00+08:00",
       "audience": [
         "应届毕业生",
         "社会公众"
@@ -5485,43 +5586,7 @@
       "group_title": "上外MBA2027级招生",
       "phase": "项目咨询",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "4d072a69dba9404105440b699e2b3a55bd9c07ee",
-      "parent_article_id": null,
-      "title": "雀巢中国2027届校园招聘线下见面会",
-      "summary": "9月-10月，线下见面会，扫码报名",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": "9月-10月 线上聊不够，线下来面基",
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": "雀巢中国2027届校园招聘",
-      "group_title": "雀巢中国2027届校园招聘",
-      "phase": "线下见面会",
-      "is_group_member": true,
-      "expired": false
+      "expired": true
     },
     {
       "id": "542300837de93499c67871d7572b9fbdd023660f",
@@ -5557,41 +5622,6 @@
       "group_title": "上外MBA2027级招生",
       "phase": "招生简章",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "548547aaa5ddd185e821302718a52446e7e46c97",
-      "parent_article_id": null,
-      "title": "得物2027届校园招聘",
-      "summary": "得物2027届校园招聘，9月20日截止报名",
-      "level": "L1",
-      "category": "internship_job",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/7095H5GakrpTDSLtdndiYQ",
-      "alt_links": [],
-      "publish_date": "2026-09-23",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": "9月20日 16:00",
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "PC端：登录得物校园招聘官网投递",
-      "first_seen_date": "2026-09-23",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
       "expired": false
     },
     {
@@ -5792,7 +5822,7 @@
       "needs_verification": true,
       "participation_method": "在线咨询",
       "first_seen_date": "2026-09-25",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-16T00:00:00+08:00",
       "audience": [
         "应届毕业生",
         "社会公众"
@@ -5805,7 +5835,7 @@
       "group_title": "上外MBA2027级招生",
       "phase": "招生简章",
       "is_group_member": true,
-      "expired": false
+      "expired": true
     },
     {
       "id": "866001fdb38bf886ee143ee2fe5675b9dad37279",
@@ -5875,113 +5905,6 @@
       "group_title": "卓越学院实践部招新",
       "phase": "主题游园会",
       "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "cc83b43102bc35bbe42915585660e8f91084329e",
-      "parent_article_id": null,
-      "title": "雀巢中国2027届校园招聘",
-      "summary": "9月7日19:00，听干货抽好礼，扫码报名",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/tK7vCbdNoppJktcR-9fOgw",
-      "alt_links": [],
-      "publish_date": "2026-10-08",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": "9.7 周一 19:00 听干货 抽好礼「拿直通+",
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-08",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": "雀巢中国2027届校园招聘",
-      "group_title": "雀巢中国2027届校园招聘",
-      "phase": null,
-      "is_group_member": true,
-      "expired": false
-    },
-    {
-      "id": "d2f7d35ce4e5f20caa72d2c1ede87fdbb4f39144",
-      "parent_article_id": null,
-      "title": "上海金沓校园招聘",
-      "summary": "上海金沓校园招聘，发送简历至HR邮箱",
-      "level": "L1",
-      "category": "internship_job",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/5IMozR3gOoJbR2a79zTEuw",
-      "alt_links": [],
-      "publish_date": "2026-09-24",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": null,
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "发送简历+点向岗位 至HR邮箱",
-      "first_seen_date": "2026-09-24",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "e0d3eab06625724b96d1d715b13f5aff7230693c",
-      "parent_article_id": null,
-      "title": "上外MBA2027级咨询答疑登记开启",
-      "summary": "扫描二维码完成咨询答疑登记",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外国语大学MBA",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/6v6mZHwzeQND073Ko5srpA",
-      "alt_links": [],
-      "publish_date": "2026-09-24",
-      "event_date": null,
-      "date_kind": null,
-      "date_text": null,
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-09-24",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "社会公众"
-      ],
-      "field": [
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
       "expired": false
     },
     {
