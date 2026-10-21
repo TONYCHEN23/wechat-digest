@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T00:00:00+08:00",
+  "generated_at": "2026-10-21T00:00:00+08:00",
   "events": [
     {
       "id": "bae5e723550e7b6af47fdfc648603fb350f4c24e",
@@ -439,376 +439,6 @@
       "expired": true
     },
     {
-      "id": "03bb15634f9d3e088cb41ae9ee9846acf78ee035",
-      "parent_article_id": null,
-      "title": "口译核心能力拆解与高效练习策略",
-      "summary": "10月20日19:00-20:00，汤敏主讲，扫描二维码进入直播间",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/QNj2xtqiKSJH-j0o8hA3kA",
-      "alt_links": [],
-      "publish_date": "2026-10-19",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "英语中高级口译\n主讲人：汤敏\n时间：10月20日（周二）19:00-20:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "扫描二维码进入直播间",
-      "first_seen_date": "2026-10-19",
-      "updated_at": "2026-10-19T00:00:00+08:00",
-      "audience": [
-        "全校学生",
-        "国际学生",
-        "研究生"
-      ],
-      "field": [
-        "外语学习",
-        "学术科研",
-        "思政党建"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "1de374bfc447f1e45fbd2824eac26350f492fce3",
-      "parent_article_id": null,
-      "title": "中国远洋海运集团招聘上外留学生",
-      "summary": "上外国际学生可申请，10月20日前投递简历",
-      "level": "L1",
-      "category": "internship_job",
-      "source": {
-        "name": "留学上外",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/LFnk3QeZjGlYXu7G5ddrBw",
-      "alt_links": [],
-      "publish_date": "2026-10-19",
-      "event_date": "2026-10-20",
-      "date_kind": "deadline",
-      "date_text": "简历投递邮箱（10月20日前）",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "邮箱",
-      "first_seen_date": "2026-10-19",
-      "updated_at": "2026-10-19T00:00:00+08:00",
-      "audience": [
-        "国际学生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "4435555f95b48481acddd6defef1e18bc71b00bb",
-      "parent_article_id": null,
-      "title": "非遗手工体验·苔痕秘境报名",
-      "summary": "非遗手工体验·苔痕秘境报名，10月20日截止",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "留学上外",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/x41EbRsu5KOitg2XFbe3pw",
-      "alt_links": [],
-      "publish_date": "2026-10-20",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "活动报名｜第六期“文化四韵”跨文化训练营：非遗手工体验·苔痕秘境报名",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": "二维码",
-      "first_seen_date": "2026-10-20",
-      "updated_at": "2026-10-20T00:00:00+08:00",
-      "audience": [
-        "国际学生"
-      ],
-      "field": [
-        "文化艺术"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6aa85f47fc1facd37105e723fb8d6e1ac043ecfb",
-      "parent_article_id": null,
-      "title": "上海“松江七校”2027届毕业生联合招聘会",
-      "summary": "10月20日，东华大学松江校区体育馆，700+单位，2万+岗位招聘会，可扫码查职位。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/5stU4iGhko_j-Y-Wfn21_A",
-      "alt_links": [],
-      "publish_date": "2026-10-19",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "10月20日（周二）",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "扫码进大厅",
-      "first_seen_date": "2026-10-19",
-      "updated_at": "2026-10-19T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理",
-        "科技数据"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "74476dff331fe0626d85a5aac242455b9529e214",
-      "parent_article_id": null,
-      "title": "顺丰速运集团秋招宣讲会",
-      "summary": "10月20日，顺丰速运集团秋招宣讲会，报名参加。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
-      "alt_links": [],
-      "publish_date": "2026-10-17",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "10月20日 周二 18:30-20:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
-      "first_seen_date": "2026-10-17",
-      "updated_at": "2026-10-17T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "78cdc9f7e8e7965efa3cac0567755a0bfc4e73a4",
-      "parent_article_id": null,
-      "title": "90分钟信息素养公开课03",
-      "summary": "10月20日，李朋真主讲90分钟信息素养公开课，探讨生成式AI。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学图书馆",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/d-kSTKuOp6E01mQWen9ebg",
-      "alt_links": [],
-      "publish_date": "2026-10-19",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-19",
-      "updated_at": "2026-10-19T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "通识科普",
-        "科技数据"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "986c4f364fac26fa61b92f542ca109a0c3eb7a09",
-      "parent_article_id": null,
-      "title": "滴滴×上外开学出行福利",
-      "summary": "即日起至10月20日，上外学生可领取滴滴专属打车券包，最高70元补贴。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外学联",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/Vh-6atrC78jr4yw5YmPYsw",
-      "alt_links": [],
-      "publish_date": "2026-09-15",
-      "event_date": "2026-10-20",
-      "date_kind": "range_end",
-      "date_text": "活动时间：即日起 —10 月 20 日",
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "滴滴APP/小程序",
-      "first_seen_date": "2026-09-15",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "生活服务"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "a3e142b2388b8991b6d40b76e53b5bd500721368",
-      "parent_article_id": null,
-      "title": "2027届松江大学园区七校毕业生联合招聘会",
-      "summary": "10月20日，东华大学松江校区体育馆，在线报名参加。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/94ZUcqvdzRl7Zvq-Sf7gQw",
-      "alt_links": [],
-      "publish_date": "2026-09-28",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "于2026年10月20日在东华大学松江校区体育馆召开2027届松江大学园区七校毕业生联合招聘会",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "Zhaopin.ApplyOffer.com/sid=3949",
-      "first_seen_date": "2026-09-28",
-      "updated_at": "2026-10-10T00:00:00+08:00",
-      "audience": [
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "b39cd8be67694480504ad8b7cf5593190a06d364",
-      "parent_article_id": null,
-      "title": "校园商贸升级建议征集",
-      "summary": "松江校区校园商贸升级，欢迎提出宝贵建议。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "生活在上外",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/pwRZt4fasVbSQm-3rtVJRQ",
-      "alt_links": [],
-      "publish_date": "2026-10-20",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-20",
-      "updated_at": "2026-10-20T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "校园生活"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "d41333a53f79cf33acc858c8f183f28d9c0ca6d2",
-      "parent_article_id": null,
-      "title": "清秘（北京）科技有限公司校园招聘宣讲会",
-      "summary": "10月20日，清秘（北京）科技有限公司校园招聘宣讲会，报名参加。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/aqQUtjxzqeuw4TyIuNspDA",
-      "alt_links": [],
-      "publish_date": "2026-10-17",
-      "event_date": "2026-10-20",
-      "date_kind": "event_day",
-      "date_text": "10月20日 周二 15:00-17:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "https://f.wps.cn/g/S3UNx6en/",
-      "first_seen_date": "2026-10-17",
-      "updated_at": "2026-10-17T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生"
-      ],
-      "field": [
-        "就业求职",
-        "文化艺术"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
       "id": "107391bd789f65b4f3204f7c2290e674e682bf69",
       "parent_article_id": null,
       "title": "上海汉得信息技术股份有限公司秋招宣讲会",
@@ -1048,6 +678,41 @@
       "expired": false
     },
     {
+      "id": "71645dd30e3b3dea7fefe5d029f7ec96d15413ad",
+      "parent_article_id": null,
+      "title": "上外MBA初试备考经验分享",
+      "summary": "10月21日19:00，沈维阳分享备考经验及招生政策解读。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学MBA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/_nXIB8pFycPtLsgYXY0sqQ",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "2026年10月21日（周三）19:00",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "直播链接",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "研究生"
+      ],
+      "field": [
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "9166efc3f22397f3c5b5fcaf830f3b1e49baf21a",
       "parent_article_id": null,
       "title": "国轩高科出海市场校招宣讲会",
@@ -1151,6 +816,45 @@
       "field": [
         "就业求职",
         "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e4c4f00bdef18901c27b75ca7f9c66c1ee0347b5",
+      "parent_article_id": null,
+      "title": "莫卡特企业出海主题讲座",
+      "summary": "10月21日16:40-17:40，上外MBA校友莫卡特分享企业出海经验。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学MBA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/vB2PGX6om3YwVinMX6x9uw",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-10-21",
+      "date_kind": "event_day",
+      "date_text": "2026年10月21日（周三）16:40-17:40",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "现场",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "国际学生",
+        "教职工"
+      ],
+      "field": [
+        "商科管理",
+        "科技数据",
+        "国际组织外交"
       ],
       "lang": null,
       "group_key": null,
@@ -1773,6 +1477,41 @@
         "商科管理",
         "文化艺术",
         "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e8077c03d967fe241ab9ea1a07f3f4e2849d7e30",
+      "parent_article_id": null,
+      "title": "东俄新生舞会",
+      "summary": "10月23日18:30-20:30，会堂，东俄新生舞会，需着装正式。",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上海外国语大学图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/5BgYx6PsiTjT4TTqE5Dz-g",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-10-23",
+      "date_kind": "event_day",
+      "date_text": "22026年10月23日",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "会堂",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "文化艺术"
       ],
       "lang": null,
       "group_key": null,
@@ -2561,6 +2300,45 @@
       "expired": false
     },
     {
+      "id": "f6b8750091d215be8d11247600552b643209f5c6",
+      "parent_article_id": null,
+      "title": "新疆外国语学院招聘宣讲会",
+      "summary": "新疆外国语学院招聘宣讲会，现场答疑、简历接收。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/5PB0nbdJI-LgAe5OtekA_g",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-10-30",
+      "date_kind": "event_day",
+      "date_text": "宣讲现场将介绍学院筹建进展、办学定位、人才政策、薪酬待遇、发展平台等内容，设置现场答疑、简历接收环节，欢迎有志在西域大展",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "现场",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "应届毕业生",
+        "社会公众"
+      ],
+      "field": [
+        "教育文化",
+        "就业求职",
+        "文化艺术"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "07d2fc8427d952cf967cd2a5727ee87a98a00ff7",
       "parent_article_id": null,
       "title": "四叶草公益社纳新",
@@ -3299,6 +3077,80 @@
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "终试（集团高管）",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "31988942b660bbbcd6b029224b91c1c28de49142",
+      "parent_article_id": null,
+      "title": "NYU Stern-上海纽约大学商科硕士项目宣讲会",
+      "summary": "了解NYU Stern商科硕士项目，11月5日松江校区举行。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26102016142070211924",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-11-05",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "研究生"
+      ],
+      "field": [
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "a20702d3917ec847696f8226b2c560a280f4f5c8",
+      "parent_article_id": null,
+      "title": "AI素养提升直播讲座",
+      "summary": "11月5日14:30-15:30，线上直播讲座，报名观看。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外贤达学院图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/dXT0g2H9ryGExXfAEzg0qg",
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/dXT0g2H9ryGExXfAEzg0qg"
+      ],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-11-05",
+      "date_kind": "event_day",
+      "date_text": "本次讲座汇聚高校图书馆专家与知网培训讲师，带来六节高能干货课程，兼顾实操演示与案例讲解，带你读懂AI，善用AI。",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "https://swxd.mh.chaoxing.com",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "学术科研",
+        "科技数据",
+        "通识科普"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -4127,6 +3979,44 @@
       "expired": false
     },
     {
+      "id": "e2775686d3c97fc26bcd269dc814be1b936cdf1b",
+      "parent_article_id": null,
+      "title": "APMCM亚太地区大学生数学建模竞赛报名",
+      "summary": "即日起至2026年11月25日报名，需缴纳100元参赛费",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "官网·教务处·学生专栏",
+        "type": "website"
+      },
+      "link": "https://newoaa.shisu.edu.cn/3d/92/c6353a212370/page.htm",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-11-25",
+      "date_kind": "deadline",
+      "date_text": "该竞赛的网上报名工作已开始，现将相关事宜通知如下：一、参赛对象 普通高校全日制在校大学生（本科生、研究生）以 1~3 人",
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "https://new.saikr.com/vse/apmcm26",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "本科生",
+        "研究生"
+      ],
+      "field": [
+        "学术科研"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "dbedb7ed20cb00918e1f8e2dcb934f5ebf769867",
       "parent_article_id": null,
       "title": "全国联赛",
@@ -4613,6 +4503,216 @@
       "expired": false
     },
     {
+      "id": "0ad31836ddc78644599a472d14b6b0e2477c49c2",
+      "parent_article_id": null,
+      "title": "青花椒花椒鱼 优惠活动",
+      "summary": "出示校园卡+集8赞享青花椒优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "1e382ad89a715dfbcf725a7ea94b1f33ccb0440b",
+      "parent_article_id": null,
+      "title": "山处·鲜牛肉·鸡煲 优惠活动",
+      "summary": "出示校园卡+集8赞享山处·鲜牛肉优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "2a3da55edad8332c3dab1d40e6f36cfa40071ec6",
+      "parent_article_id": null,
+      "title": "灰镜·迷乐城·猫公主剧本杀 优惠活动",
+      "summary": "出示校园卡+集8赞享灰镜优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "2b3619dfa5bb7805060691d551d3333d5f957741",
+      "parent_article_id": null,
+      "title": "关东小磨东北菜 优惠活动",
+      "summary": "出示校园卡+集8赞享关东小磨优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "2d4feaaa24792e0f52ee5a766a05c96886008710",
+      "parent_article_id": null,
+      "title": "悦动健身 优惠活动",
+      "summary": "出示校园卡+集8赞享悦动健身优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "47837ac740fb4ab0f9626fdeec9449cbaa400c50",
+      "parent_article_id": null,
+      "title": "今粤居潮汕鲜切土鸡煲火锅自助 优惠活动",
+      "summary": "出示校园卡+集8赞享今粤居优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "66f88f04bc200e2555c18b2348407b6a2e5d7c15",
       "parent_article_id": null,
       "title": "民生银行上海分行实习生招聘",
@@ -4641,6 +4741,286 @@
         "就业求职",
         "金融经济",
         "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "6b644aab1cad23a1d8e109280c455188c4b2bf55",
+      "parent_article_id": null,
+      "title": "鲁山人·精致料理·铁板烧 优惠活动",
+      "summary": "出示校园卡+集8赞享鲁山人优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "7423a1f9d35f1e915e9e713f1b7569e6f7e4cf55",
+      "parent_article_id": null,
+      "title": "鸿姐老火锅 优惠活动",
+      "summary": "出示校园卡+集8赞享鸿姐老火锅优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "7c4201d035d338e3f9ca2cc5ab43e0b8442db0c8",
+      "parent_article_id": null,
+      "title": "歪胖子重庆老火锅 优惠活动",
+      "summary": "出示校园卡+集8赞享歪胖子优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "809bd1f18f65cdcec12b9f71fd89f34b3697aad8",
+      "parent_article_id": null,
+      "title": "炙子馋鱼·烤全鱼 优惠活动",
+      "summary": "出示校园卡+集8赞享炙子馋鱼优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "8d576638dd9af868fa51de1e3847dd904d917dec",
+      "parent_article_id": null,
+      "title": "牛泰师·日式烤肉 优惠活动",
+      "summary": "出示校园卡+集8赞享牛泰师优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "91805de307d6f80dea5bc25327ab3b6199333386",
+      "parent_article_id": null,
+      "title": "干劲丼·板前烤肉饭 优惠活动",
+      "summary": "出示校园卡+集8赞享干劲丼优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "ad147d0a538e7824218a9352139703b86f2ca781",
+      "parent_article_id": null,
+      "title": "泰康拜博口腔 优惠活动",
+      "summary": "出示校园卡+集8赞享泰康拜博口腔优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "b93205933d7790997dddf31ed244efe2cb971876",
+      "parent_article_id": null,
+      "title": "黔灵湖贵州地摊火锅 优惠活动",
+      "summary": "出示校园卡+集8赞享黔灵湖优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
       ],
       "lang": null,
       "group_key": null,
@@ -4685,6 +5065,42 @@
       "expired": false
     },
     {
+      "id": "d81108bb3aceb51ac9aa88a8899dd0be514dea06",
+      "parent_article_id": null,
+      "title": "TCL华星2027届秋季校园招聘",
+      "summary": "TCL华星2027届秋季校园招聘，12月31日截止报名",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/uWx-PnG8jZyNjaOIxKulzA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "deadline",
+      "date_text": "12月31日统上跆骋傰頂悅拍仃住交拭",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "微信端关注TCL华星招聘公众号，电脑端登录TCL官方网站",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "dc1a37000407a486091c6d92e2f928b1ff31dd48",
       "parent_article_id": null,
       "title": "小米2027届全球校园招聘",
@@ -4712,6 +5128,251 @@
       "field": [
         "就业求职",
         "科技数据"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "df613c32710c6af44d404d8bb10454f3c7e3bc36",
+      "parent_article_id": null,
+      "title": "鱼酷活鱼烤鱼 优惠活动",
+      "summary": "出示校园卡+集8赞享鱼酷活鱼优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e152bf97aeabf5896518689be01359d59cacd89c",
+      "parent_article_id": null,
+      "title": "汤伯府-猪肚鸡火锅专门店 优惠活动",
+      "summary": "出示校园卡+集8赞享汤伯府优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e9a1347c9c4d0324edee9066edb953e10ed3f63e",
+      "parent_article_id": null,
+      "title": "老北京涮肉·铜锅羊蝎子·冰煮羊 优惠活动",
+      "summary": "出示校园卡+集8赞享老北京涮肉优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "eb8713228d66852e842229e87bfcee6e3d3b6fa5",
+      "parent_article_id": null,
+      "title": "粤禧潮·斑鱼海鲜粥火锅 优惠活动",
+      "summary": "出示校园卡+集8赞享粤禧潮优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "f051fa124787ccb32f38b3b7a8f34d4d39720b4f",
+      "parent_article_id": null,
+      "title": "安又胖韩国烤肉 优惠活动",
+      "summary": "出示校园卡+集8赞享安又胖优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "f93c8ffd9d282411d5a54a465dbb94c8e7ec8585",
+      "parent_article_id": null,
+      "title": "七八冷面·延边朝鲜族美食 优惠活动",
+      "summary": "出示校园卡+集8赞享七八冷面优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "fc203b527a8c446913902022c4421ed78c2d55e5",
+      "parent_article_id": null,
+      "title": "湊湊火锅·茶憩 优惠活动",
+      "summary": "出示校园卡+集8赞享湊湊火锅优惠，有效期至2026-12-31",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外学联",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/r5hRfoHO3SVZbVQq9lTphA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2026-12-31",
+      "date_kind": "range_end",
+      "date_text": "优惠时间：2026.10.21—2026.12.31",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "到店出示校园卡+朋友圈集8赞",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "校园生活"
       ],
       "lang": null,
       "group_key": null,
@@ -5193,6 +5854,42 @@
       "expired": false
     },
     {
+      "id": "f73b508d78bbbc335694de239de76af634660c10",
+      "parent_article_id": null,
+      "title": "泡泡玛特2027届秋季校园招聘",
+      "summary": "泡泡玛特2027届秋季校园招聘，投递截止至2027年8月31日。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/v7HVP-2QPxO1azLdna4TsA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": "2027-08-31",
+      "date_kind": "range_end",
+      "date_text": null,
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": "https://popmart.zhiye.com/campus",
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "6fe2670bcf37cab8f5c1a679ceed94b3b00f9e1f",
       "parent_article_id": null,
       "title": "中国建设银行上海市分行2027年度校园招聘",
@@ -5410,6 +6107,41 @@
       "expired": false
     },
     {
+      "id": "1b8f118908dca7a2fb4cf93d1a21e7eb5c8be4cb",
+      "parent_article_id": null,
+      "title": "周大福珠宝集团2027届GMT项目启动",
+      "summary": "周大福GMT项目启动，面向未来实习生",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/06s02Qqr7MsP5I4oSo0uzA",
+      "alt_links": [],
+      "publish_date": "2026-10-21",
+      "event_date": null,
+      "date_kind": null,
+      "date_text": null,
+      "date_confidence": "failed",
+      "needs_verification": true,
+      "participation_method": null,
+      "first_seen_date": "2026-10-21",
+      "updated_at": "2026-10-21T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "2803bfe726a361b91861c6f7b0bddd2a2108f3c2",
       "parent_article_id": null,
       "title": "返校日游园会",
@@ -5430,7 +6162,7 @@
       "needs_verification": true,
       "participation_method": null,
       "first_seen_date": "2026-09-30",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-21T00:00:00+08:00",
       "audience": [
         "校友",
         "全校学生"
@@ -5443,7 +6175,7 @@
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "返校日游园会",
       "is_group_member": true,
-      "expired": false
+      "expired": true
     },
     {
       "id": "30bc93b67f0798e11e46e311c23e5df765685e96",
@@ -5750,7 +6482,7 @@
       "needs_verification": true,
       "participation_method": null,
       "first_seen_date": "2026-09-30",
-      "updated_at": "2026-10-10T00:00:00+08:00",
+      "updated_at": "2026-10-21T00:00:00+08:00",
       "audience": [
         "校友",
         "全校学生"
@@ -5764,7 +6496,7 @@
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "校友行业导师论坛",
       "is_group_member": true,
-      "expired": false
+      "expired": true
     },
     {
       "id": "7f073862c102fdb58ce21e048d79eeba85c627f0",
