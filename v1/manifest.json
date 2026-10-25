@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "generated_at": "2026-10-26T00:00:00+08:00",
-  "data_version": 13,
+  "data_version": 14,
   "files": {
     "events": {
       "path": "events.json",
@@ -16,7 +16,7 @@
     }
   },
   "pipeline": {
-    "last_success": "2026-10-26T04:13:00+08:00"
+    "last_success": "2026-10-26T05:23:28+08:00"
   },
   "enums": {
     "level": {
