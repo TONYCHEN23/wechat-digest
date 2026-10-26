@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "generated_at": "2026-10-26T00:00:00+08:00",
-  "data_version": 19,
+  "data_version": 20,
   "files": {
     "events": {
       "path": "events.json",
-      "sha256": "52deecfcdffab539df42a0ec219ad93a176ede64d548e1cb513baa0049193716",
-      "bytes": 238208,
+      "sha256": "145250921e7b4b3b5b7ba69ca60945f71a386d350a04468e4cbc952f58280dbf",
+      "bytes": 238256,
       "count": 192
     },
     "digest": {
@@ -16,7 +16,7 @@
     }
   },
   "pipeline": {
-    "last_success": "2026-10-26T09:17:01+08:00"
+    "last_success": "2026-10-26T09:20:49+08:00"
   },
   "enums": {
     "level": {
