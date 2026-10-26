@@ -699,7 +699,7 @@
       "id": "1f32d6da2e2056bcdffec8a610c4e23aed1b80a8",
       "parent_article_id": null,
       "title": "荷马史诗《伊利亚特》中的故事讲述",
-      "summary": "10月26日，松江校区-第5教学楼-268，英语学院主办",
+      "summary": "10月26日，刘淳主讲，松江校区-第5教学楼-268",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -708,28 +708,30 @@
       },
       "link": "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
       "alt_links": [
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ"
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
       ],
       "publish_date": "2026-10-24",
       "event_date": "2026-10-26",
       "event_datetime": "2026-10-26T18:30:00+08:00",
       "event_datetime_end": "2026-10-26T20:30:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 26 日（周一）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-24",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
         "学术科研",
-        "文化艺术"
+        "外语学习"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -870,7 +872,7 @@
       "id": "4db421bc64caa68ea91471bc62963ac82840ff8f",
       "parent_article_id": null,
       "title": "从中国故事到世界文学：文化符号的生成编码、层累阐释与流动衍生",
-      "summary": "10月26日，松江校区-第5教学楼-121，英语学院主办",
+      "summary": "10月26日，陈琦主讲，松江校区-第5教学楼-121",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -880,28 +882,30 @@
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
       "alt_links": [
         "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ"
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
       ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-26",
       "event_datetime": "2026-10-26T13:00:00+08:00",
       "event_datetime_end": "2026-10-26T14:30:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 26 日（周一）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
-        "学术科研",
-        "文化艺术"
+        "文化艺术",
+        "学术科研"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -913,7 +917,7 @@
       "id": "59b44d14d78f71fbd4d6882d4263197c088decf0",
       "parent_article_id": null,
       "title": "汉语文本特征工具开发与研究",
-      "summary": "10月26日，松江校区-第8教学楼-123，中文学院/国际文化交流学院主办",
+      "summary": "10月26日，雷蕾主讲，松江校区-第8教学楼-123",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -921,27 +925,30 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-26",
       "event_datetime": "2026-10-26T13:30:00+08:00",
       "event_datetime_end": "2026-10-26T14:30:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 26 日（周一）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
         "学术科研",
-        "文化艺术"
+        "外语学习"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -1064,6 +1071,49 @@
         "工程制造"
       ],
       "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "b17bc42e1c1a38c28ddf57989157716602651b74",
+      "parent_article_id": null,
+      "title": "积极外语教育讲座",
+      "summary": "李成陈教授将探讨积极外语教育的核心理念及关键研究议题。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "语言科学研究院",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/0qqasBHszZm5nf4Yx-bHFw",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-26",
+      "event_datetime": null,
+      "event_datetime_end": null,
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "low",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "国际学生",
+        "教职工"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "通识科普"
+      ],
+      "lang": [
+        "英语"
+      ],
       "group_key": null,
       "group_title": null,
       "phase": null,
@@ -1197,7 +1247,7 @@
       "id": "1e7f8c141c9566b8013fcf0c3e5286116b3a4b87",
       "parent_article_id": null,
       "title": "Transnation: Identity and Mobility in Postcolonial Literatur",
-      "summary": "10月27日，松江校区-第5教学楼-121，英语学院主办",
+      "summary": "10月27日，Bill Ashcroft, Wenche Ommundsen主讲，松江校区-第5教学楼-121",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -1206,28 +1256,30 @@
       },
       "link": "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
       "alt_links": [
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ"
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
       ],
       "publish_date": "2026-10-24",
       "event_date": "2026-10-27",
       "event_datetime": "2026-10-27T14:00:00+08:00",
       "event_datetime_end": "2026-10-27T16:00:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 27 日（周二）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-24",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
         "学术科研",
-        "国际组织外交"
+        "外语学习"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -1322,7 +1374,7 @@
       "id": "6b6a79620cecce715b084d638b8ee660ac354e76",
       "parent_article_id": null,
       "title": "对话式搜索：AI时代的信息检索新趋势",
-      "summary": "10月27日，松江校区-图文信息中心-T106，图书馆主办",
+      "summary": "10月27日，徐亚苹主讲，松江校区-图文信息中心-T106",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -1330,27 +1382,30 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-27",
       "event_datetime": "2026-10-27T10:05:00+08:00",
       "event_datetime_end": "2026-10-27T11:35:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 27 日（周二）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
-        "学术科研",
-        "科技数据"
+        "科技数据",
+        "学术科研"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -1448,7 +1503,7 @@
       "id": "9b4d0e241111eb96abdabcba707ff1ccea746995",
       "parent_article_id": null,
       "title": "全球环境治理与多边公约谈判",
-      "summary": "10月27日，松江校区-第4教学楼-313，国际关系与公共事务学院主办",
+      "summary": "10月27日，王之佳主讲，松江校区-第4教学楼-313",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -1456,27 +1511,30 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-27",
       "event_datetime": "2026-10-27T10:05:00+08:00",
       "event_datetime_end": "2026-10-27T12:20:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 27 日（周二）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
-        "学术科研",
-        "国际组织外交"
+        "国际组织外交",
+        "学术科研"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -1563,6 +1621,85 @@
       ],
       "lang": [
         "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "e309e525197597944f04b1d808101ca434264843",
+      "parent_article_id": null,
+      "title": "90分钟信息素养公开课",
+      "summary": "10月27日，徐亚苹主讲90分钟信息素养公开课，探讨对话式搜索。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/a4q9vbKWlnDmD3pOZER0Gg",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-27",
+      "event_datetime": "2026-10-27T10:05:00+08:00",
+      "event_datetime_end": "2026-10-27T11:35:00+08:00",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "通识科普",
+        "文化艺术"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "0f593afa2b7e737203a7e5243f9577976ee9c80e",
+      "parent_article_id": null,
+      "title": "阅卷专家带你备考全国跨文化能力考试",
+      "summary": "10月28日，丁秋芸主讲，腾讯会议",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学图书馆",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-28",
+      "event_datetime": "2026-10-28T19:30:00+08:00",
+      "event_datetime_end": "2026-10-28T21:30:00+08:00",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "腾讯会议:123-883-926",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "学术科研",
+        "外语学习"
+      ],
+      "lang": [
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -1730,6 +1867,49 @@
       "expired": false
     },
     {
+      "id": "845eee3e84760092dbe51f1739464cf45b7038ea",
+      "parent_article_id": null,
+      "title": "PUP云端学术讲坛第105期",
+      "summary": "10月28日下午13:00-14:10，腾讯会议号449-1756-3368",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外档案校史博物",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/8p3vCMy_iHD1bjshSdSfRg",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-28",
+      "event_datetime": "2026-10-28T13:00:00+08:00",
+      "event_datetime_end": "2026-10-28T14:10:00+08:00",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "腾讯会议号",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "研究生",
+        "国际学生"
+      ],
+      "field": [
+        "外语学习",
+        "学术科研",
+        "思政党建"
+      ],
+      "lang": [
+        "英语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "b7df48fa9df31fa5e271ae888f13129b56f4a6ac",
       "parent_article_id": null,
       "title": "半亩花田2027年校园招聘宣讲会",
@@ -1765,6 +1945,46 @@
       "lang": [
         "英语",
         "日语"
+      ],
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "b8fb0d4fbcdfbe170aa0e3d74905e9269f78cd1f",
+      "parent_article_id": null,
+      "title": "校友导师领航计划",
+      "summary": "10月28日13:00-14:30，松江校区国际教育中心一楼报告厅，校友导师领航计划讲座。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/XClRLHs6MJqyTVkyawHRFg",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-28",
+      "event_datetime": "2026-10-28T13:00:00+08:00",
+      "event_datetime_end": "2026-10-28T14:30:00+08:00",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "现场",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": [
+        "英语"
       ],
       "group_key": null,
       "group_title": null,
@@ -1869,7 +2089,10 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-29",
       "event_datetime": "2026-10-29T10:00:00+08:00",
@@ -1909,7 +2132,10 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-29",
       "event_datetime": "2026-10-29T15:00:00+08:00",
@@ -1941,7 +2167,7 @@
       "id": "670436502447a7561531b5bfc4d63afb6b473060",
       "parent_article_id": null,
       "title": "数智时代研究生的学术成长与科研方法",
-      "summary": "10月29日，松江校区-第5教学楼-209，跨文化研究中心主办",
+      "summary": "10月29日，闫星合主讲，松江校区-第5教学楼-209",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -1949,13 +2175,15 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-29",
       "event_datetime": "2026-10-29T13:00:00+08:00",
       "event_datetime_end": "2026-10-29T14:30:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 29 日（周四）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
@@ -1969,7 +2197,8 @@
         "科技数据"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -2032,7 +2261,10 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-29",
       "event_datetime": "2026-10-29T16:00:00+08:00",
@@ -2072,7 +2304,10 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-30",
       "event_datetime": "2026-10-30T13:00:00+08:00",
@@ -2150,7 +2385,7 @@
       "id": "b64bff3c53ebf1418dbeb76077241c0bf1932091",
       "parent_article_id": null,
       "title": "音乐剧的制作、创作和运作",
-      "summary": "10月30日，松江校区-全球治理与区域国别研究大楼-307，艺术教育中心主办",
+      "summary": "10月30日，吕学平主讲，松江校区-全球治理与区域国别研究大楼-307",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -2158,27 +2393,30 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-30",
       "event_datetime": "2026-10-30T14:30:00+08:00",
       "event_datetime_end": "2026-10-30T16:00:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 30 日（周五）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
-        "学术科研",
-        "文化艺术"
+        "文化艺术",
+        "学术科研"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -2190,7 +2428,7 @@
       "id": "be4a30c86a6b13bf34cf5370ca27ece309f291e1",
       "parent_article_id": null,
       "title": "革命与战争：第二次世界大战的东方起源",
-      "summary": "10月30日，松江校区-行政楼-129，卓越学院主办",
+      "summary": "10月30日，马建标主讲，松江校区-行政楼-129",
       "level": "L2",
       "category": "lecture",
       "source": {
@@ -2198,26 +2436,29 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-30",
       "event_datetime": "2026-10-30T14:50:00+08:00",
       "event_datetime_end": "2026-10-30T16:20:00+08:00",
       "date_kind": "event_day",
-      "date_text": "10 月 30 日（周五）",
+      "date_text": null,
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": null,
       "first_seen_date": "2026-10-26",
       "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "研究生"
+        "全校学生"
       ],
       "field": [
         "学术科研"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
@@ -2261,6 +2502,44 @@
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "全文提交",
       "is_group_member": true,
+      "expired": false
+    },
+    {
+      "id": "ccee92065ca94e9fd92a269f6b23f3ad86adbb6a",
+      "parent_article_id": null,
+      "title": "TTI职涯测评线下团队解读工作坊",
+      "summary": "面向已完成线上测评的MBA新生，进行职业测评报告解读。",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "上海外国语大学MBA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/Ggyiff47ClfzAChYQxAN0Q",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-30",
+      "event_datetime": "2026-10-30T13:30:00+08:00",
+      "event_datetime_end": "2026-10-30T15:30:00+08:00",
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "线下",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "研究生"
+      ],
+      "field": [
+        "商科管理",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
       "expired": false
     },
     {
@@ -2666,6 +2945,47 @@
       "expired": false
     },
     {
+      "id": "6b34aec756787e7bec9a0a8eade67373bcdbef76",
+      "parent_article_id": null,
+      "title": "SIMUN2026 大会祝福视频征集",
+      "summary": "投稿视频截止至10月31日23:59，发送至sisumuna_sipra@163.com",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外模联 SISUMUNA",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/O3CwpLdLpoi11Z4BUYbFQg",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-10-31",
+      "event_datetime": "2026-10-31T23:59:00+08:00",
+      "event_datetime_end": null,
+      "date_kind": "deadline",
+      "date_text": "请有意投稿的同仁于2026年10月31日23：59前完成祝福视频的录制，并以附件形式发送视频至邮箱（sisumuna_s",
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": "邮箱",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生",
+        "国际学生",
+        "教职工"
+      ],
+      "field": [
+        "国际组织外交",
+        "思政党建",
+        "文化艺术"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "6d708a4b54cdfe49fd20fa8a67038743178d1eb9",
       "parent_article_id": null,
       "title": "全国大学生职业规划大赛",
@@ -2835,7 +3155,10 @@
         "type": "wechat"
       },
       "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [],
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
       "publish_date": "2026-10-25",
       "event_date": "2026-10-31",
       "event_datetime": "2026-10-31T09:30:00+08:00",
@@ -3133,6 +3456,44 @@
       "expired": false
     },
     {
+      "id": "4133e0e2dd599d54455089ac12cdcf8008b9ce5c",
+      "parent_article_id": null,
+      "title": "ATOMIC岱澳集团上海外国语大学站校园宣讲会",
+      "summary": "ATOMIC岱澳集团宣讲会，11月4日举行",
+      "level": "L2",
+      "category": "lecture",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26092916503469835920",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-11-04",
+      "event_datetime": null,
+      "event_datetime_end": null,
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "全校学生"
+      ],
+      "field": [
+        "就业求职",
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
       "id": "14a11a3398b4639a643949365f51e10c5c1accf2",
       "parent_article_id": null,
       "title": "终试（集团高管）",
@@ -3197,6 +3558,44 @@
         "研究生"
       ],
       "field": [
+        "商科管理"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "7c481ee427e8af5a52e42a178d48759421647273",
+      "parent_article_id": null,
+      "title": "豫园珠宝时尚集团2027年管培生招募",
+      "summary": "豫园珠宝时尚集团2027年管培生招募，11月5日举行。",
+      "level": "L1",
+      "category": "internship_job",
+      "source": {
+        "name": "官网·就业网·招聘宣讲",
+        "type": "website"
+      },
+      "link": "https://career.shisu.edu.cn/preaching.html?wid=26102317184367620974",
+      "alt_links": [],
+      "publish_date": "2026-10-26",
+      "event_date": "2026-11-05",
+      "event_datetime": null,
+      "event_datetime_end": null,
+      "date_kind": "event_day",
+      "date_text": null,
+      "date_confidence": "high",
+      "needs_verification": false,
+      "participation_method": null,
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
+      "audience": [
+        "应届毕业生"
+      ],
+      "field": [
+        "就业求职",
         "商科管理"
       ],
       "lang": null,
@@ -5831,41 +6230,42 @@
       "expired": false
     },
     {
-      "id": "ab6a774a9bfcef713f61ca32a900fd5921d4ebb1",
+      "id": "2e149057a672357bbf18f1ac07aa752cf518194d",
       "parent_article_id": null,
       "title": "首届全国外语院校“中国文化国际传播大赛”",
-      "summary": "全国外语院校师生可报名参加，征稿至2027年3月31日。",
+      "summary": "2026年10月8日至2027年3月31日，全国外语院校图书馆联盟主办",
       "level": "L2",
       "category": "registration_activity",
       "source": {
         "name": "上海外国语大学图书馆",
         "type": "wechat"
       },
-      "link": "https://mp.weixin.qq.com/s/YOa5ps_TN-h6c-8wxaatFA",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
+      "link": "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g",
+      "alt_links": [
+        "https://mp.weixin.qq.com/s/YOa5ps_TN-h6c-8wxaatFA",
+        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
+      ],
+      "publish_date": "2026-10-26",
       "event_date": "2027-03-31",
       "event_datetime": null,
       "event_datetime_end": null,
-      "date_kind": "deadline",
+      "date_kind": "range_end",
       "date_text": "即日起至2027年3月31日，参赛选手使用电脑端/手机端浏览器，通过活动官网（https://www.52met.com",
       "date_confidence": "high",
       "needs_verification": false,
       "participation_method": "官网报名",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
+      "first_seen_date": "2026-10-26",
+      "updated_at": "2026-10-26T00:00:00+08:00",
       "audience": [
-        "本科生",
-        "研究生",
         "全校学生"
       ],
       "field": [
-        "外语学习",
         "文化艺术",
-        "通识科普"
+        "外语学习"
       ],
       "lang": [
-        "英语"
+        "英语",
+        "多语种"
       ],
       "group_key": null,
       "group_title": null,
