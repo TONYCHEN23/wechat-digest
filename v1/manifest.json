@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "generated_at": "2026-10-26T00:00:00+08:00",
-  "data_version": 20,
+  "data_version": 21,
   "files": {
     "events": {
       "path": "events.json",
-      "sha256": "145250921e7b4b3b5b7ba69ca60945f71a386d350a04468e4cbc952f58280dbf",
-      "bytes": 238256,
+      "sha256": "50f8f4db56cb8d6023ef6ef2399284d517df08268b74a7476cc79c204e0d39d7",
+      "bytes": 238694,
       "count": 192
     },
     "digest": {
