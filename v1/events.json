@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T00:00:00+08:00",
+  "generated_at": "2026-10-28T00:00:00+08:00",
   "events": [
     {
       "id": "bae5e723550e7b6af47fdfc648603fb350f4c24e",
@@ -32,6 +32,7 @@
       "group_key": "新生入学后参保流程",
       "group_title": "新生入学后参保流程",
       "phase": "居保账户建立与医保电子凭证申领",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -65,6 +66,7 @@
       "group_key": "宝洁2027秋季校园招聘",
       "group_title": "宝洁2027秋季校园招聘",
       "phase": "宣讲会",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -98,6 +100,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "报名",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -131,6 +134,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "校级选拔赛",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -164,6 +168,7 @@
       "group_key": "金佰利2027管理培训生招聘",
       "group_title": "金佰利2027管理培训生招聘",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -197,6 +202,7 @@
       "group_key": "旺旺集团2027届校园招聘",
       "group_title": "旺旺集团2027届校园招聘",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -230,6 +236,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -269,6 +276,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "省赛组队",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -308,6 +316,7 @@
       "group_key": "2027级上外mba全国联考报名",
       "group_title": "2027级上外MBA全国联考报名",
       "phase": "预报名",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -345,6 +354,7 @@
       "group_key": "旺旺集团2027届校园招聘",
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "初试&测评",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -384,6 +394,7 @@
       "group_key": "2026视听翻译研究国际研讨会",
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "接受通知",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -422,6 +433,7 @@
       "group_key": "卓越书会",
       "group_title": "卓越书会",
       "phase": "《瓦尔登湖》讲座",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -461,6 +473,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "省级淘汰赛",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -499,6 +512,7 @@
       "group_key": "卓越书会",
       "group_title": "卓越书会",
       "phase": "《信号与噪声》讲座",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -539,6 +553,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "线上初赛",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -577,6 +592,7 @@
       "group_key": "全球语言语料库建设与应用研究研讨会韩语语料库韩语教育与韩国研究研讨会一号通知",
       "group_title": "全球语言语料库建设与应用研究研讨会",
       "phase": "参会回执填写截止",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -614,6 +630,7 @@
       "group_key": "旺旺集团2027届校园招聘",
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "复试（PM主管）",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -652,1019 +669,9 @@
       "group_key": "全球语言语料库建设与应用研究研讨会韩语语料库韩语教育与韩国研究研讨会一号通知",
       "group_title": "全球语言语料库建设与应用研究研讨会",
       "phase": "摘要提交截止",
+      "location": null,
       "is_group_member": true,
       "expired": true
-    },
-    {
-      "id": "02fefc6d5103e8c0f420c37c7c4f35d62b4c1bbf",
-      "parent_article_id": null,
-      "title": "专业化职业指导、政策咨询",
-      "summary": "10月26日，上海理工大学体育活动中心，提供专业化职业指导和政策咨询。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/-Y6_e6OzccziAWD5Z2GdTg",
-      "alt_links": [],
-      "publish_date": "2026-10-23",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T09:30:00+08:00",
-      "event_datetime_end": "2026-10-26T15:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日（周一）9:30—15:30 上海理工大学体育活动中心",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-23",
-      "updated_at": "2026-10-23T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "科技数据",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "1f32d6da2e2056bcdffec8a610c4e23aed1b80a8",
-      "parent_article_id": null,
-      "title": "荷马史诗《伊利亚特》中的故事讲述",
-      "summary": "10月26日，刘淳主讲，松江校区-第5教学楼-268",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外英语学院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T18:30:00+08:00",
-      "event_datetime_end": "2026-10-26T20:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "25fa7d3ad3197f5b902400619760d2f0c5ad8fae",
-      "parent_article_id": null,
-      "title": "德州仪器 Texas Instruments 2027届应届生招聘宣讲会",
-      "summary": "10月26日18:30-20:30，德州仪器 Texas Instruments 2027届应届生招聘宣讲会，松江校区师",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T18:30:00+08:00",
-      "event_datetime_end": "2026-10-26T20:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日 周一 18:30-20:30",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "网站",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "科技数据",
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "2665147859fb223e4314529ef1a736f0f3abdeef",
-      "parent_article_id": null,
-      "title": "中国重汽集团国际有限公司校园招聘",
-      "summary": "10月26日14:00-15:00，中国重汽集团国际有限公司校园招聘，松江校区师生活动中心二楼荟空间，电话咨询17860",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [
-        "https://career.shisu.edu.cn/preaching.html?wid=26100814082726230581",
-        "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw"
-      ],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T14:00:00+08:00",
-      "event_datetime_end": "2026-10-26T15:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日 周一 14:00-15:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "电话",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "工程制造",
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "33ff4f8237c7f8c5d676e5f7cc1b01077f53da90",
-      "parent_article_id": null,
-      "title": "资格审查结果查询",
-      "summary": "2026年10月26日前查询资格审查结果",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
-      "alt_links": [],
-      "publish_date": "2026-10-15",
-      "event_date": "2026-10-26",
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": "deadline",
-      "date_text": "招录机关于2026年10月15日8:00至10月26日18:00期间对报考申请进行审查",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
-      "first_seen_date": "2026-10-16",
-      "updated_at": "2026-10-16T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "公共部门",
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "4db421bc64caa68ea91471bc62963ac82840ff8f",
-      "parent_article_id": null,
-      "title": "从中国故事到世界文学：文化符号的生成编码、层累阐释与流动衍生",
-      "summary": "10月26日，陈琦主讲，松江校区-第5教学楼-121",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T13:00:00+08:00",
-      "event_datetime_end": "2026-10-26T14:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "文化艺术",
-        "学术科研"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "59b44d14d78f71fbd4d6882d4263197c088decf0",
-      "parent_article_id": null,
-      "title": "汉语文本特征工具开发与研究",
-      "summary": "10月26日，雷蕾主讲，松江校区-第8教学楼-123",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T13:30:00+08:00",
-      "event_datetime_end": "2026-10-26T14:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "9a54e2eb3b9698b3905c0deb4c8afbee898ae54c",
-      "parent_article_id": null,
-      "title": "基础口译报考",
-      "summary": "基础口译考试报名截止至10月26日，不限年龄，笔试口试一次考完。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/LxRY9uMC0Px2KNgMo6Uinw",
-      "alt_links": [],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T15:00:00+08:00",
-      "event_datetime_end": null,
-      "date_kind": "deadline",
-      "date_text": "2026年秋季上海外语口译证书第二阶段考试（口试）、英语口译基础能力证书考试、日语高级口译证书考试报名10月26日15:",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "线上报名",
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "社会公众",
-        "全校学生"
-      ],
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "a441390ed8a75c3b777ba119384b8889d79984e1",
-      "parent_article_id": null,
-      "title": "AI智能面试现场体验",
-      "summary": "10月26日，上海理工大学体育活动中心，体验AI智能面试。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/-Y6_e6OzccziAWD5Z2GdTg",
-      "alt_links": [],
-      "publish_date": "2026-10-23",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T09:30:00+08:00",
-      "event_datetime_end": "2026-10-26T15:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日（周一）9:30—15:30 上海理工大学体育活动中心",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-23",
-      "updated_at": "2026-10-23T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "科技数据",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "a7573f34522f516e5261c062272beb4bb86be253",
-      "parent_article_id": null,
-      "title": "2026年全国城市联合招聘高校毕业生秋季专场活动",
-      "summary": "10月26日，上海理工大学体育活动中心，1000家用人单位现场招聘。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/-Y6_e6OzccziAWD5Z2GdTg",
-      "alt_links": [],
-      "publish_date": "2026-10-23",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T09:30:00+08:00",
-      "event_datetime_end": "2026-10-26T15:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日（周一）9:30—15:30 上海理工大学体育活动中心",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-23",
-      "updated_at": "2026-10-23T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "科技数据",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "b17bc42e1c1a38c28ddf57989157716602651b74",
-      "parent_article_id": null,
-      "title": "积极外语教育讲座",
-      "summary": "李成陈教授将探讨积极外语教育的核心理念及关键研究议题。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "语言科学研究院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0qqasBHszZm5nf4Yx-bHFw",
-      "alt_links": [],
-      "publish_date": "2026-10-26",
-      "event_date": "2026-10-26",
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生",
-        "国际学生",
-        "教职工"
-      ],
-      "field": [
-        "外语学习",
-        "学术科研",
-        "通识科普"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "b1b12bf97223f298e95d6ad38fc344cfc6b82de4",
-      "parent_article_id": null,
-      "title": "职场形象一站式赋能",
-      "summary": "10月26日，上海理工大学体育活动中心，一站式职场形象赋能。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/-Y6_e6OzccziAWD5Z2GdTg",
-      "alt_links": [],
-      "publish_date": "2026-10-23",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T09:30:00+08:00",
-      "event_datetime_end": "2026-10-26T15:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日（周一）9:30—15:30 上海理工大学体育活动中心",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "现场",
-      "first_seen_date": "2026-10-23",
-      "updated_at": "2026-10-23T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "科技数据",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "bdb95b33b993bdba7e38115ed26904a53780348a",
-      "parent_article_id": null,
-      "title": "多平台同步直播带岗",
-      "summary": "10月26日下午13:30-15:30，通过“上海人社”抖音号、视频号、B站观看直播。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/-Y6_e6OzccziAWD5Z2GdTg",
-      "alt_links": [],
-      "publish_date": "2026-10-23",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T09:30:00+08:00",
-      "event_datetime_end": "2026-10-26T15:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日（周一）9:30—15:30 上海理工大学体育活动中心",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "线上",
-      "first_seen_date": "2026-10-23",
-      "updated_at": "2026-10-23T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "科技数据",
-        "工程制造"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "f341bf717aa58d773d428fad713d58824dd9f6a5",
-      "parent_article_id": null,
-      "title": "川外附中教育集团秋招宣讲会",
-      "summary": "10月26日12:00-13:00，川外附中教育集团秋招宣讲会，松江校区师生活动中心二楼荟空间，投递简历至hujia@c",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-26",
-      "event_datetime": "2026-10-26T12:00:00+08:00",
-      "event_datetime_end": "2026-10-26T13:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月26日 周一 12:00-13:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "电子邮件",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "教育文化",
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "1e7f8c141c9566b8013fcf0c3e5286116b3a4b87",
-      "parent_article_id": null,
-      "title": "Transnation: Identity and Mobility in Postcolonial Literatur",
-      "summary": "10月27日，Bill Ashcroft, Wenche Ommundsen主讲，松江校区-第5教学楼-121",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外英语学院",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T14:00:00+08:00",
-      "event_datetime_end": "2026-10-27T16:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "学术科研",
-        "外语学习"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "546e52d272dba03b5ca76c580ad5388f14c14e46",
-      "parent_article_id": null,
-      "title": "基础口译考试报名",
-      "summary": "10月27日前报名，11月下旬考试，检验英语能力。",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/0O5h_O_sZISOHI3BLOVoBA",
-      "alt_links": [],
-      "publish_date": "2026-10-12",
-      "event_date": "2026-10-27",
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": "deadline",
-      "date_text": "报名预计下周开启，考试预计11月下旬举行。",
-      "date_confidence": "low",
-      "needs_verification": false,
-      "participation_method": "微信公众号",
-      "first_seen_date": "2026-10-12",
-      "updated_at": "2026-10-12T00:00:00+08:00",
-      "audience": null,
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "5a06ac0390b9c6bb7bdedc4f0db41f587fca35e1",
-      "parent_article_id": null,
-      "title": "上海银行2027届校园招聘宣讲会",
-      "summary": "10月27日13:30-14:30，上海银行2027届校园招聘宣讲会，松江校区师生活动中心二楼荟空间，登录PC端网申门户",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [
-        "https://career.shisu.edu.cn/preaching.html?wid=26100817211106133323",
-        "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw"
-      ],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T13:30:00+08:00",
-      "event_datetime_end": "2026-10-27T14:30:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月27日 周二 13:30-14:30",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "网站",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "金融经济",
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6b6a79620cecce715b084d638b8ee660ac354e76",
-      "parent_article_id": null,
-      "title": "对话式搜索：AI时代的信息检索新趋势",
-      "summary": "10月27日，徐亚苹主讲，松江校区-图文信息中心-T106",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T10:05:00+08:00",
-      "event_datetime_end": "2026-10-27T11:35:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "科技数据",
-        "学术科研"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "6d018578494d13351cea2b8fd3870db05641bb50",
-      "parent_article_id": null,
-      "title": "山东临工校园招聘",
-      "summary": "10月27日16:00-18:00，山东临工校园招聘，松江校区师生活动中心二楼荟空间，电话咨询183 9677 1226",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [
-        "https://career.shisu.edu.cn/preaching.html?wid=26101415300767074761",
-        "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw"
-      ],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T16:00:00+08:00",
-      "event_datetime_end": "2026-10-27T18:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月27日 周二 16:00-18:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "电话",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "工程制造",
-        "就业求职"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "9a667cf6595c99c1a1eadaa811bfda09d7ffd084",
-      "parent_article_id": null,
-      "title": "广东军辉达进出口贸易有限公司空中宣讲会",
-      "summary": "2026-10-27 14:00 线上参加宣讲会",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "官网·就业网·招聘宣讲",
-        "type": "website"
-      },
-      "link": "https://career.shisu.edu.cn/preaching.html?wid=26101917290118997179",
-      "alt_links": [],
-      "publish_date": "2026-10-20",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T14:00:00+08:00",
-      "event_datetime_end": null,
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "线上宣讲会",
-      "first_seen_date": "2026-10-20",
-      "updated_at": "2026-10-20T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "就业求职",
-        "商科管理"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "9b4d0e241111eb96abdabcba707ff1ccea746995",
-      "parent_article_id": null,
-      "title": "全球环境治理与多边公约谈判",
-      "summary": "10月27日，王之佳主讲，松江校区-第4教学楼-313",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/yrRK9tC2uDS2KeJHnPyT0g"
-      ],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T10:05:00+08:00",
-      "event_datetime_end": "2026-10-27T12:20:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "国际组织外交",
-        "学术科研"
-      ],
-      "lang": [
-        "英语",
-        "多语种"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "ba4a1f44e86594b5f230606ddca705d6b57b92e0",
-      "parent_article_id": null,
-      "title": "江西江铃进出口有限责任公司27届秋招宣讲会",
-      "summary": "10月27日10:30-12:00，江西江铃进出口有限责任公司27届秋招宣讲会，松江校区师生活动中心二楼荟空间，投递邮箱",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/19hlXLxfhYfJDbRvu0MmDw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T10:30:00+08:00",
-      "event_datetime_end": "2026-10-27T12:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "10月27日 周二 10:30-12:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": "电子邮件",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": [
-        "本科生",
-        "研究生",
-        "应届毕业生"
-      ],
-      "field": [
-        "就业求职",
-        "公共部门"
-      ],
-      "lang": [
-        "英语",
-        "日语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "bd3833379670bc9cf4f9ae0c8efba9471d203aeb",
-      "parent_article_id": null,
-      "title": "民俗方法学和会话分析对语言学研究的启示：如何理解语言的指示性",
-      "summary": "10月27日，松江校区-第5教学楼-307，英语学院主办",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上外研究生教育",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ",
-      "alt_links": [
-        "https://mp.weixin.qq.com/s/NbYM2-Aixtojpkpu1kTnXg",
-        "https://mp.weixin.qq.com/s/WGDZaHJgQ4DwBB-CcFwZRQ"
-      ],
-      "publish_date": "2026-10-25",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T16:20:00+08:00",
-      "event_datetime_end": "2026-10-27T18:00:00+08:00",
-      "date_kind": "event_day",
-      "date_text": "时间：10月27日（周二）16:20-18:00",
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "研究生"
-      ],
-      "field": [
-        "学术科研",
-        "文化艺术"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "e309e525197597944f04b1d808101ca434264843",
-      "parent_article_id": null,
-      "title": "90分钟信息素养公开课",
-      "summary": "10月27日，徐亚苹主讲90分钟信息素养公开课，探讨对话式搜索。",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外国语大学图书馆",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/a4q9vbKWlnDmD3pOZER0Gg",
-      "alt_links": [],
-      "publish_date": "2026-10-26",
-      "event_date": "2026-10-27",
-      "event_datetime": "2026-10-27T10:05:00+08:00",
-      "event_datetime_end": "2026-10-27T11:35:00+08:00",
-      "date_kind": "event_day",
-      "date_text": null,
-      "date_confidence": "high",
-      "needs_verification": false,
-      "participation_method": null,
-      "first_seen_date": "2026-10-26",
-      "updated_at": "2026-10-26T00:00:00+08:00",
-      "audience": [
-        "全校学生"
-      ],
-      "field": [
-        "通识科普",
-        "文化艺术"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
     },
     {
       "id": "0f593afa2b7e737203a7e5243f9577976ee9c80e",
@@ -1704,6 +711,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "腾讯会议:123-883-926",
       "is_group_member": false,
       "expired": false
     },
@@ -1743,6 +751,7 @@
       "group_key": "2027级上外mba全国联考报名",
       "group_title": "2027级上外MBA全国联考报名",
       "phase": "正式报名",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -1761,7 +770,7 @@
       "alt_links": [],
       "publish_date": "2026-10-15",
       "event_date": "2026-10-28",
-      "event_datetime": null,
+      "event_datetime": "2026-10-28T08:00:00+08:00",
       "event_datetime_end": null,
       "date_kind": "deadline",
       "date_text": "通过资格审查的报考者，可于2026年10月28日8:00后登录专题网站查询报名序号",
@@ -1783,6 +792,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -1820,6 +830,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -1863,6 +874,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -1906,6 +918,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "线上(腾讯会议 449-1756-3368)",
       "is_group_member": false,
       "expired": false
     },
@@ -1949,6 +962,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "一教楼1101-1102",
       "is_group_member": false,
       "expired": false
     },
@@ -1989,6 +1003,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2031,6 +1046,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2074,6 +1090,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "师生活动中心",
       "is_group_member": false,
       "expired": false
     },
@@ -2117,6 +1134,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-第4教学楼-236",
       "is_group_member": false,
       "expired": false
     },
@@ -2160,6 +1178,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-第5教学楼-209",
       "is_group_member": false,
       "expired": false
     },
@@ -2203,6 +1222,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-第5教学楼-209",
       "is_group_member": false,
       "expired": false
     },
@@ -2246,6 +1266,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "师生活动中心 二楼荟空间",
       "is_group_member": false,
       "expired": false
     },
@@ -2289,6 +1310,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-第5教学楼-209",
       "is_group_member": false,
       "expired": false
     },
@@ -2332,6 +1354,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-行政楼-129",
       "is_group_member": false,
       "expired": false
     },
@@ -2378,6 +1401,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "师生活动中心 二楼荟空间",
       "is_group_member": false,
       "expired": false
     },
@@ -2421,6 +1445,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-全球治理与区域国别研究大楼-307",
       "is_group_member": false,
       "expired": false
     },
@@ -2463,6 +1488,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2501,6 +1527,7 @@
       "group_key": "2026视听翻译研究国际研讨会",
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "全文提交",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -2539,6 +1566,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "上海外国语大学松江校区",
       "is_group_member": false,
       "expired": false
     },
@@ -2582,6 +1610,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区 师生活动中心 二楼荟空间",
       "is_group_member": false,
       "expired": false
     },
@@ -2625,6 +1654,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2663,6 +1693,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2701,6 +1732,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2738,6 +1770,7 @@
       "group_key": "卓越学院实践部招新",
       "group_title": "卓越学院实践部招新",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -2778,6 +1811,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2818,6 +1852,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2858,6 +1893,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2898,6 +1934,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2941,6 +1978,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -2982,6 +2020,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3021,6 +2060,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3058,6 +2098,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3102,6 +2143,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-图文信息中心-图书馆东侧一楼书展区",
       "is_group_member": false,
       "expired": false
     },
@@ -3140,6 +2182,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3182,6 +2225,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-全球治理与区域国别研究大楼-307",
       "is_group_member": false,
       "expired": false
     },
@@ -3220,6 +2264,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3258,6 +2303,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3296,6 +2342,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3335,6 +2382,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "省赛决赛作品提交",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3374,6 +2422,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3414,6 +2463,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3452,6 +2502,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3490,6 +2541,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3527,6 +2579,7 @@
       "group_key": "旺旺集团2027届校园招聘",
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "终试（集团高管）",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3564,6 +2617,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3602,6 +2656,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3643,6 +2698,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3681,6 +2737,7 @@
       "group_key": "卓越书会",
       "group_title": "卓越书会",
       "phase": "《外围资本主义》讲座",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3721,6 +2778,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3759,6 +2817,7 @@
       "group_key": "卓越书会",
       "group_title": "卓越书会",
       "phase": "《奥夫特丁根》讲座",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3799,6 +2858,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "选手报到",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3839,6 +2899,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "开幕式",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3878,6 +2939,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "复赛和决赛",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3918,6 +2980,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -3957,6 +3020,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "复赛和决赛",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -3995,6 +3059,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4035,6 +3100,7 @@
       "group_key": "2026年全国高校俄语大赛",
       "group_title": "2026年全国高校俄语大赛",
       "phase": "闭幕式暨颁奖仪式",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4072,6 +3138,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4094,7 +3161,7 @@
       ],
       "publish_date": "2026-10-13",
       "event_date": "2026-11-13",
-      "event_datetime": null,
+      "event_datetime": "2026-11-13T12:00:00+08:00",
       "event_datetime_end": null,
       "date_kind": "deadline",
       "date_text": "请各高校指导教师在2026年11月13日（周五）中午12:00前下载、填写《第四届上海市大学生中华文化国际传播大赛复赛注",
@@ -4118,6 +3185,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4156,6 +3224,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4196,6 +3265,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4237,6 +3307,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4277,6 +3348,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4316,6 +3388,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4356,6 +3429,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4395,6 +3469,7 @@
       "group_key": "2026视听翻译研究国际研讨会",
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": "注册截止",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4413,7 +3488,7 @@
       "alt_links": [],
       "publish_date": "2026-10-23",
       "event_date": "2026-11-20",
-      "event_datetime": null,
+      "event_datetime": "2026-11-20T17:00:00+08:00",
       "event_datetime_end": null,
       "date_kind": "deadline",
       "date_text": "报名时间：2026 年 11 月 20日 17:00止",
@@ -4433,6 +3508,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4470,6 +3546,7 @@
       "group_key": "旺旺集团2027届校园招聘",
       "group_title": "旺旺集团2027届校园招聘",
       "phase": "offer发放",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4510,6 +3587,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4550,6 +3628,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4589,6 +3668,7 @@
       "group_key": "2026大学生ai+信息素养大赛",
       "group_title": "2026大学生‘AI+信息素养’大赛",
       "phase": "全国联赛",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4607,7 +3687,7 @@
       "alt_links": [],
       "publish_date": "2026-10-19",
       "event_date": "2026-11-27",
-      "event_datetime": null,
+      "event_datetime": "2026-11-27T12:00:00+08:00",
       "event_datetime_end": null,
       "date_kind": "deadline",
       "date_text": "报名截止时间为11月27日（周五）12:00。",
@@ -4630,6 +3710,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4669,6 +3750,7 @@
       "group_key": "七秩英华志远日新上外英语学院70周年庆典",
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "庆典大会暨研讨会",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4709,6 +3791,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4748,6 +3831,7 @@
       "group_key": "七秩英华志远日新上外英语学院70周年庆典",
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "‘追往兆新：现代化与文学的历史想象’研讨会",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4766,7 +3850,7 @@
       "alt_links": [],
       "publish_date": "2026-10-15",
       "event_date": "2026-11-29",
-      "event_datetime": null,
+      "event_datetime": "2026-11-29T15:00:00+08:00",
       "event_datetime_end": null,
       "date_kind": "event_day",
       "date_text": "报名确认成功的报考者，请于2026年11月23日0:00至11月29日15:00期间登录专题网站打印准考证",
@@ -4788,6 +3872,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4827,6 +3912,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4866,6 +3952,7 @@
       "group_key": "2026视听翻译研究国际研讨会",
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -4904,6 +3991,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -4944,6 +4032,7 @@
       "group_key": "全球语言语料库建设与应用研究研讨会韩语语料库韩语教育与韩国研究研讨会一号通知",
       "group_title": "全球语言语料库建设与应用研究研讨会",
       "phase": null,
+      "location": "上海外国语大学松江校区",
       "is_group_member": true,
       "expired": false
     },
@@ -4984,6 +4073,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "上外松江校区",
       "is_group_member": false,
       "expired": false
     },
@@ -5023,6 +4113,7 @@
       "group_key": "2026视听翻译研究国际研讨会",
       "group_title": "2026视听翻译研究国际研讨会",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -5062,6 +4153,7 @@
       "group_key": "七秩英华志远日新上外英语学院70周年庆典",
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "2026视听翻译研究国际研讨会",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -5099,6 +4191,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "开元地中海3楼",
       "is_group_member": false,
       "expired": false
     },
@@ -5136,6 +4229,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5173,6 +4267,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "文汇新天地6楼620",
       "is_group_member": false,
       "expired": false
     },
@@ -5210,6 +4305,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5247,6 +4343,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5284,6 +4381,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5323,6 +4421,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5360,6 +4459,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5397,6 +4497,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5434,6 +4535,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5471,6 +4573,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "启源生活广场2楼202-1",
       "is_group_member": false,
       "expired": false
     },
@@ -5508,6 +4611,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5545,6 +4649,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5582,6 +4687,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "中山北路3300号4157室（环球港4楼）",
       "is_group_member": false,
       "expired": false
     },
@@ -5619,6 +4725,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5656,6 +4763,7 @@
       "group_key": "新生入学后参保流程",
       "group_title": "新生入学后参保流程",
       "phase": "居保参保确认",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -5694,6 +4802,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5732,6 +4841,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5769,6 +4879,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5806,6 +4917,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5843,6 +4955,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5880,6 +4993,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5917,6 +5031,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5954,6 +5069,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -5991,6 +5107,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江印象城4层L434-L436室",
       "is_group_member": false,
       "expired": false
     },
@@ -6029,6 +5146,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6066,6 +5184,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6107,6 +5226,7 @@
       "group_key": "上外mba2027级招生",
       "group_title": "上外MBA2027级招生",
       "phase": "奖学金发布",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -6145,6 +5265,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6183,6 +5304,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6226,6 +5348,48 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区，部分岗位以虹口校区为主",
+      "is_group_member": false,
+      "expired": false
+    },
+    {
+      "id": "181739ce20c532e7c2f8751ea12b141923cf9ec2",
+      "parent_article_id": null,
+      "title": "成绩查询",
+      "summary": "2027年1月查询笔试成绩",
+      "level": "L2",
+      "category": "registration_activity",
+      "source": {
+        "name": "上外就业",
+        "type": "wechat"
+      },
+      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
+      "alt_links": [],
+      "publish_date": "2026-10-15",
+      "event_date": "2027-01-31",
+      "event_datetime": null,
+      "event_datetime_end": null,
+      "date_kind": "event_day",
+      "date_text": "报考者可于2027年1月登录专题网站查询笔试成绩和合格分数线",
+      "date_confidence": "low",
+      "needs_verification": true,
+      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "first_seen_date": "2026-10-16",
+      "updated_at": "2026-10-16T00:00:00+08:00",
+      "audience": [
+        "应届毕业生",
+        "全校学生",
+        "社会公众"
+      ],
+      "field": [
+        "公共部门",
+        "就业求职"
+      ],
+      "lang": null,
+      "group_key": null,
+      "group_title": null,
+      "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6270,6 +5434,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": "松江校区-图文信息中心-图书馆东侧一楼书展区",
       "is_group_member": false,
       "expired": false
     },
@@ -6308,6 +5473,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6346,6 +5512,7 @@
       "group_key": "金佰利2027管理培训生招聘",
       "group_title": "金佰利2027管理培训生招聘",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -6384,6 +5551,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6421,6 +5589,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6459,6 +5628,7 @@
       "group_key": "宝洁2027秋季校园招聘",
       "group_title": "宝洁2027秋季校园招聘",
       "phase": null,
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -6497,6 +5667,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6535,6 +5706,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6573,6 +5745,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6611,6 +5784,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6648,6 +5822,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6686,6 +5861,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6724,46 +5900,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
-      "is_group_member": false,
-      "expired": false
-    },
-    {
-      "id": "181739ce20c532e7c2f8751ea12b141923cf9ec2",
-      "parent_article_id": null,
-      "title": "成绩查询",
-      "summary": "2027年1月查询笔试成绩",
-      "level": "L2",
-      "category": "registration_activity",
-      "source": {
-        "name": "上外就业",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/V8a0bLdZstjngSXWFosvDw",
-      "alt_links": [],
-      "publish_date": "2026-10-15",
-      "event_date": null,
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": null,
-      "date_text": "报考者可于2027年1月登录专题网站查询笔试成绩和合格分数线",
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
-      "first_seen_date": "2026-10-16",
-      "updated_at": "2026-10-16T00:00:00+08:00",
-      "audience": [
-        "应届毕业生",
-        "全校学生",
-        "社会公众"
-      ],
-      "field": [
-        "公共部门",
-        "就业求职"
-      ],
-      "lang": null,
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6801,6 +5938,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6839,6 +5977,7 @@
       "group_key": "七秩英华志远日新上外英语学院70周年庆典",
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "返校日游园会",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -6876,6 +6015,7 @@
       "group_key": "新媒体运营部",
       "group_title": "新媒体运营部",
       "phase": "活动摄影",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -6917,6 +6057,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -6955,6 +6096,7 @@
       "group_key": "上外mba2027级招生",
       "group_title": "上外MBA2027级招生",
       "phase": "备考答疑群",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -6993,6 +6135,7 @@
       "group_key": "新媒体运营部",
       "group_title": "新媒体运营部",
       "phase": "视频剪辑",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -7031,6 +6174,7 @@
       "group_key": "上外mba2027级招生",
       "group_title": "上外MBA2027级招生",
       "phase": "项目咨询",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -7069,6 +6213,7 @@
       "group_key": "上外mba2027级招生",
       "group_title": "上外MBA2027级招生",
       "phase": "招生简章",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -7107,6 +6252,7 @@
       "group_key": "卓越学院实践部招新",
       "group_title": "卓越学院实践部招新",
       "phase": "创意工作坊",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -7145,6 +6291,7 @@
       "group_key": "新媒体运营部",
       "group_title": "新媒体运营部",
       "phase": "国际组织实习推送排版",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -7180,6 +6327,7 @@
       "group_key": null,
       "group_title": null,
       "phase": null,
+      "location": null,
       "is_group_member": false,
       "expired": false
     },
@@ -7219,45 +6367,9 @@
       "group_key": "七秩英华志远日新上外英语学院70周年庆典",
       "group_title": "七秩英华 志远日新 | 上外英语学院70周年庆典",
       "phase": "校友行业导师论坛",
+      "location": null,
       "is_group_member": true,
       "expired": true
-    },
-    {
-      "id": "73409946b2f5ec5e90b4a9afbce538ce807c3b32",
-      "parent_article_id": null,
-      "title": "拥抱AI，成就个人发展：从基础口译开始",
-      "summary": "讲座：拥抱AI，成就个人发展：从基础口译开始",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/wWpszXuZUSKQLCbOC6-nnw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": null,
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": null,
-      "date_text": "讲座第51讲",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": "线上直播",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": null,
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
     },
     {
       "id": "7f073862c102fdb58ce21e048d79eeba85c627f0",
@@ -7293,6 +6405,7 @@
       "group_key": "新媒体运营部",
       "group_title": "新媒体运营部",
       "phase": "小红书运营",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -7331,6 +6444,7 @@
       "group_key": "上外mba2027级招生",
       "group_title": "上外MBA2027级招生",
       "phase": "招生简章",
+      "location": null,
       "is_group_member": true,
       "expired": true
     },
@@ -7368,6 +6482,7 @@
       "group_key": "新媒体运营部",
       "group_title": "新媒体运营部",
       "phase": "公众号内容制作",
+      "location": null,
       "is_group_member": true,
       "expired": false
     },
@@ -7405,45 +6520,9 @@
       "group_key": "卓越学院实践部招新",
       "group_title": "卓越学院实践部招新",
       "phase": "主题游园会",
+      "location": null,
       "is_group_member": true,
       "expired": true
-    },
-    {
-      "id": "b57242d59d8d384385360b0f1ce1e26a68c5cd09",
-      "parent_article_id": null,
-      "title": "解锁基础口译，激活英语底层能力",
-      "summary": "讲座：解锁基础口译，激活英语底层能力",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/wWpszXuZUSKQLCbOC6-nnw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": null,
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": null,
-      "date_text": "讲座第49讲",
-      "date_confidence": "low",
-      "needs_verification": true,
-      "participation_method": "线上直播",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": null,
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
     },
     {
       "id": "e72367d524a2f6cc266ceeed1afc49f75d63febf",
@@ -7480,45 +6559,9 @@
       "group_key": "卓越学院实践部招新",
       "group_title": "卓越学院实践部招新",
       "phase": "露天电影之夜",
+      "location": null,
       "is_group_member": true,
       "expired": true
-    },
-    {
-      "id": "ea3b97b483431514f40ab49dfff5989aebcb3834",
-      "parent_article_id": null,
-      "title": "插上口译的翅膀——走近英语口译基础能力证书",
-      "summary": "讲座：插上口译的翅膀——走近英语口译基础能力证书",
-      "level": "L2",
-      "category": "lecture",
-      "source": {
-        "name": "上海外语口译",
-        "type": "wechat"
-      },
-      "link": "https://mp.weixin.qq.com/s/wWpszXuZUSKQLCbOC6-nnw",
-      "alt_links": [],
-      "publish_date": "2026-10-24",
-      "event_date": null,
-      "event_datetime": null,
-      "event_datetime_end": null,
-      "date_kind": null,
-      "date_text": "讲座第48讲",
-      "date_confidence": "failed",
-      "needs_verification": true,
-      "participation_method": "线上直播",
-      "first_seen_date": "2026-10-24",
-      "updated_at": "2026-10-24T00:00:00+08:00",
-      "audience": null,
-      "field": [
-        "外语学习"
-      ],
-      "lang": [
-        "英语"
-      ],
-      "group_key": null,
-      "group_title": null,
-      "phase": null,
-      "is_group_member": false,
-      "expired": false
     }
   ]
 }
